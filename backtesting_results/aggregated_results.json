@@ -1,0 +1,293 @@
+{
+  "heikin_ashi_color_change_strategy": {
+    "5m": {
+      "Mean": {
+        "total_return": 469.1111758351193,
+        "expectancy": 15.519187506391143,
+        "profit_per_trade_abs": 15.528139714960743,
+        "profit_per_trade_pct": 0.15528139714960745,
+        "benchmark_return": -29.606517048133984,
+        "total_profit": 46911.117583511936,
+        "max_drawdown": 9.773520737165592,
+        "win_rate": 41.77953691609068,
+        "best_trade": 7.577681833165302,
+        "worst_trade": -2.7389821184721552,
+        "total_trades": 3051.3260869565215,
+        "total_closed_trades": 3051.1521739130435,
+        "total_open_trades": 0.17391304347826086
+      },
+      "Min": {
+        "total_return": -24.727650354154328,
+        "expectancy": -0.47235669370415123,
+        "profit_per_trade_abs": -0.47217205182651,
+        "profit_per_trade_pct": -0.0047217205182651,
+        "benchmark_return": -49.25019571378647,
+        "total_profit": -2472.765035415433,
+        "max_drawdown": 4.433821756747204,
+        "win_rate": 31.329325317301272,
+        "best_trade": 0.0492373985342994,
+        "worst_trade": -5.28136572802659,
+        "total_trades": 2714.0,
+        "total_closed_trades": 2714.0,
+        "total_open_trades": 0.0
+      },
+      "Max": {
+        "total_return": 2722.4727415279895,
+        "expectancy": 74.46588461509826,
+        "profit_per_trade_abs": 74.46588461509818,
+        "profit_per_trade_pct": 0.7446588461509818,
+        "benchmark_return": 35.77754524528831,
+        "total_profit": 272247.2741527989,
+        "max_drawdown": 29.677100021483366,
+        "win_rate": 45.76271186440678,
+        "best_trade": 29.619851766535476,
+        "worst_trade": -0.14341216439404447,
+        "total_trades": 5238.0,
+        "total_closed_trades": 5237.0,
+        "total_open_trades": 1.0
+      }
+    },
+    "15m": {
+      "Mean": {
+        "total_return": 15.299751879448465,
+        "expectancy": 1.570416680291277,
+        "profit_per_trade_abs": 1.5827162298392898,
+        "profit_per_trade_pct": 0.0158271622983929,
+        "benchmark_return": -29.49888508347255,
+        "total_profit": 1529.9751879448468,
+        "max_drawdown": 19.895504994757463,
+        "win_rate": 37.026352429646444,
+        "best_trade": 8.436000427863007,
+        "worst_trade": -2.9375934584723065,
+        "total_trades": 1008.2173913043479,
+        "total_closed_trades": 1008.0217391304348,
+        "total_open_trades": 0.1956521739130435
+      },
+      "Min": {
+        "total_return": -20.462225195875664,
+        "expectancy": -2.017970926614975,
+        "profit_per_trade_abs": -2.017970926614957,
+        "profit_per_trade_pct": -0.02017970926614957,
+        "benchmark_return": -48.359253907798646,
+        "total_profit": -2046.2225195875662,
+        "max_drawdown": 6.730191407026433,
+        "win_rate": 34.023668639053255,
+        "best_trade": 0.037501759292118665,
+        "worst_trade": -5.32684305009631,
+        "total_trades": 927.0,
+        "total_closed_trades": 927.0,
+        "total_open_trades": 0.0
+      },
+      "Max": {
+        "total_return": 90.57855410022188,
+        "expectancy": 9.677195950878414,
+        "profit_per_trade_abs": 9.677195950878406,
+        "profit_per_trade_pct": 0.09677195950878406,
+        "benchmark_return": 35.73441973856488,
+        "total_profit": 9057.855410022188,
+        "max_drawdown": 30.809986324974286,
+        "win_rate": 42.060810810810814,
+        "best_trade": 21.49765616115444,
+        "worst_trade": -0.15919607292546264,
+        "total_trades": 1582.0,
+        "total_closed_trades": 1581.0,
+        "total_open_trades": 1.0
+      }
+    },
+    "overall_mean": 242.2054638572839
+  },
+  "grover_llorens_activator": {
+    "5m": {
+      "Mean": {
+        "total_return": 1345.598798523451,
+        "expectancy": 37.086162225176714,
+        "profit_per_trade_abs": 37.10710445843773,
+        "profit_per_trade_pct": 0.3710710445843773,
+        "benchmark_return": -29.606517048133988,
+        "total_profit": 134559.87985234507,
+        "max_drawdown": 6.93311713404113,
+        "win_rate": 41.321415662159765,
+        "best_trade": 7.015480384752699,
+        "worst_trade": -2.2355844507359643,
+        "total_trades": 3721.304347826087,
+        "total_closed_trades": 3721.0652173913045,
+        "total_open_trades": 0.2391304347826087
+      },
+      "Min": {
+        "total_return": -34.122911963152916,
+        "expectancy": -0.6094481820195395,
+        "profit_per_trade_abs": -0.6091201707096201,
+        "profit_per_trade_pct": -0.0060912017070962,
+        "benchmark_return": -49.25019571378647,
+        "total_profit": -3412.291196315292,
+        "max_drawdown": 2.678752201656829,
+        "win_rate": 16.511960014280614,
+        "best_trade": 0.04794210138979404,
+        "worst_trade": -5.281365728026584,
+        "total_trades": 3404.0,
+        "total_closed_trades": 3403.0,
+        "total_open_trades": 0.0
+      },
+      "Max": {
+        "total_return": 2750.0827857021936,
+        "expectancy": 75.24166308350743,
+        "profit_per_trade_abs": 75.24166308350735,
+        "profit_per_trade_pct": 0.7524166308350735,
+        "benchmark_return": 35.77754524528831,
+        "total_profit": 275008.27857021935,
+        "max_drawdown": 34.14429612836219,
+        "win_rate": 46.69409344695857,
+        "best_trade": 10.441155188139717,
+        "worst_trade": -0.1434121643940497,
+        "total_trades": 5603.0,
+        "total_closed_trades": 5602.0,
+        "total_open_trades": 1.0
+      }
+    },
+    "15m": {
+      "Mean": {
+        "total_return": 51.79784324858315,
+        "expectancy": 3.80446891943381,
+        "profit_per_trade_abs": 3.805836847962911,
+        "profit_per_trade_pct": 0.0380583684796291,
+        "benchmark_return": -29.498885083472555,
+        "total_profit": 5179.784324858314,
+        "max_drawdown": 17.840721028711233,
+        "win_rate": 34.87620273139016,
+        "best_trade": 7.69349099154235,
+        "worst_trade": -2.6243983661105452,
+        "total_trades": 1392.0652173913043,
+        "total_closed_trades": 1392.0,
+        "total_open_trades": 0.06521739130434782
+      },
+      "Min": {
+        "total_return": -13.318284021754279,
+        "expectancy": -0.7160367753631334,
+        "profit_per_trade_abs": -0.7160367753631334,
+        "profit_per_trade_pct": -0.007160367753631333,
+        "benchmark_return": -48.359253907798646,
+        "total_profit": -1331.828402175428,
+        "max_drawdown": 7.113156487974378,
+        "win_rate": 15.43010752688172,
+        "best_trade": 0.038298232779458104,
+        "worst_trade": -4.296138480114391,
+        "total_trades": 1295.0,
+        "total_closed_trades": 1295.0,
+        "total_open_trades": 0.0
+      },
+      "Max": {
+        "total_return": 159.05107090234193,
+        "expectancy": 12.01292076301674,
+        "profit_per_trade_abs": 12.012920763016764,
+        "profit_per_trade_pct": 0.12012920763016763,
+        "benchmark_return": 35.73441973856488,
+        "total_profit": 15905.107090234194,
+        "max_drawdown": 30.44102195747867,
+        "win_rate": 38.91402714932127,
+        "best_trade": 24.82052459063967,
+        "worst_trade": -0.1591960729254549,
+        "total_trades": 1861.0,
+        "total_closed_trades": 1860.0,
+        "total_open_trades": 1.0
+      }
+    },
+    "overall_mean": 698.6983208860171
+  },
+  "ut_bot_strategy": {
+    "5m": {
+      "Mean": {
+        "total_return": 339.936097398015,
+        "expectancy": 21.637935558282628,
+        "profit_per_trade_abs": 21.70592071908943,
+        "profit_per_trade_pct": 0.21705920719089433,
+        "benchmark_return": -29.606517048133988,
+        "total_profit": 33993.6097398015,
+        "max_drawdown": 9.999909619742104,
+        "win_rate": 42.321449226245925,
+        "best_trade": 9.319792016725673,
+        "worst_trade": -2.739388843071348,
+        "total_trades": 1576.3260869565217,
+        "total_closed_trades": 1575.804347826087,
+        "total_open_trades": 0.5217391304347826
+      },
+      "Min": {
+        "total_return": -28.34553872137624,
+        "expectancy": -2.0720423041941696,
+        "profit_per_trade_abs": -2.0720423041941696,
+        "profit_per_trade_pct": -0.020720423041941695,
+        "benchmark_return": -49.25019571378647,
+        "total_profit": -2834.5538721376242,
+        "max_drawdown": 3.8968556660957847,
+        "win_rate": 1.3157894736842104,
+        "best_trade": 0.008673001554169942,
+        "worst_trade": -4.138457184031014,
+        "total_trades": 1368.0,
+        "total_closed_trades": 1368.0,
+        "total_open_trades": 0.0
+      },
+      "Max": {
+        "total_return": 672.5689110639584,
+        "expectancy": 44.60006041538186,
+        "profit_per_trade_abs": 44.600060415381854,
+        "profit_per_trade_pct": 0.44600060415381854,
+        "benchmark_return": 35.77754524528831,
+        "total_profit": 67256.89110639584,
+        "max_drawdown": 28.361158405838342,
+        "win_rate": 48.78378378378378,
+        "best_trade": 28.09405497830567,
+        "worst_trade": -0.14341216439404034,
+        "total_trades": 1895.0,
+        "total_closed_trades": 1894.0,
+        "total_open_trades": 1.0
+      }
+    },
+    "15m": {
+      "Mean": {
+        "total_return": 19.187887365338163,
+        "expectancy": 3.773648694437856,
+        "profit_per_trade_abs": 3.8515457322036495,
+        "profit_per_trade_pct": 0.03851545732203648,
+        "benchmark_return": -29.498885083472555,
+        "total_profit": 1918.7887365338165,
+        "max_drawdown": 17.98430936785296,
+        "win_rate": 37.84837300418967,
+        "best_trade": 8.867591682847868,
+        "worst_trade": -4.680380944034063,
+        "total_trades": 495.4130434782609,
+        "total_closed_trades": 494.5869565217391,
+        "total_open_trades": 0.8260869565217391
+      },
+      "Min": {
+        "total_return": -14.57530460959133,
+        "expectancy": -3.4894067742579034,
+        "profit_per_trade_abs": -3.5117266999905867,
+        "profit_per_trade_pct": -0.03511726699990587,
+        "benchmark_return": -48.359253907798646,
+        "total_profit": -1457.530460959133,
+        "max_drawdown": 6.968777158212533,
+        "win_rate": 0.5050505050505051,
+        "best_trade": 0.006425146330023959,
+        "worst_trade": -10.186125111896931,
+        "total_trades": 199.0,
+        "total_closed_trades": 198.0,
+        "total_open_trades": 0.0
+      },
+      "Max": {
+        "total_return": 72.37174295615512,
+        "expectancy": 15.289140043633473,
+        "profit_per_trade_abs": 15.236156411822131,
+        "profit_per_trade_pct": 0.1523615641182213,
+        "benchmark_return": 35.73441973856488,
+        "total_profit": 7237.174295615512,
+        "max_drawdown": 30.749234189401655,
+        "win_rate": 43.983402489626556,
+        "best_trade": 21.49765616115443,
+        "worst_trade": -0.10209396216736627,
+        "total_trades": 570.0,
+        "total_closed_trades": 569.0,
+        "total_open_trades": 1.0
+      }
+    },
+    "overall_mean": 179.5619923816766
+  }
+}

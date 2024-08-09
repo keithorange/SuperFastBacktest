@@ -1,0 +1,62 @@
+{
+  "5m": {
+    "Mean": {
+      "total_profit": 0.8479215514743104,
+      "total_return": 0.8479215514743104,
+      "benchmark_return": -11.822966420910754,
+      "max_drawdown": 13.814600990151252,
+      "total_fees_paid": 0.5443240603154048,
+      "sharpe_ratio": 0.008341186198351435,
+      "calmar_ratio": 0.05156965856700274,
+      "omega_ratio": 1.009716363826053,
+      "sortino_ratio": 0.05707313936820766,
+      "win_rate": 51.562495156120214,
+      "expectancy": 0.011792377346077854,
+      "best_trade": 3.7946885824497287,
+      "worst_trade": -5.319581856003543,
+      "total_trades": 281.5,
+      "total_closed_trades": 280.88,
+      "total_open_trades": 0.62,
+      "open_trade_pnl": -1.1571940521557167
+    },
+    "Min": {
+      "total_profit": -26.396964375672795,
+      "total_return": -26.396964375672795,
+      "benchmark_return": -52.313411034612756,
+      "max_drawdown": 2.261741889374207,
+      "total_fees_paid": 0.1519549664376084,
+      "sharpe_ratio": -2.3421929063158493,
+      "calmar_ratio": -0.10569399915659011,
+      "omega_ratio": 0.5674857677108384,
+      "sortino_ratio": -2.909929398873749,
+      "win_rate": 11.343075852470424,
+      "expectancy": -0.143184394975576,
+      "best_trade": 0.040030193719989275,
+      "worst_trade": -12.646115541110802,
+      "total_trades": 75.0,
+      "total_closed_trades": 74.0,
+      "total_open_trades": 0.0,
+      "open_trade_pnl": -8.604745814828675
+    },
+    "Max": {
+      "total_profit": 42.40902350719742,
+      "total_return": 42.40902350719742,
+      "benchmark_return": 33.83656095001866,
+      "max_drawdown": 37.452025979272676,
+      "total_fees_paid": 2.6223550980477297,
+      "sharpe_ratio": 0.7769774374227063,
+      "calmar_ratio": 0.5287216246790254,
+      "omega_ratio": 1.2000160244734084,
+      "sortino_ratio": 1.2729472986461645,
+      "win_rate": 65.11627906976744,
+      "expectancy": 0.16506533117777575,
+      "best_trade": 13.6668158047896,
+      "worst_trade": -0.06436905970466508,
+      "total_trades": 1438.0,
+      "total_closed_trades": 1437.0,
+      "total_open_trades": 1.0,
+      "open_trade_pnl": 1.0980633329667313
+    }
+  },
+  "overall_mean": 0.8479215514743104
+}

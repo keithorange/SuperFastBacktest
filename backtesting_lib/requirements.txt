@@ -1,0 +1,4 @@
+vectorbt
+pandas
+numpy
+pandas_ta
