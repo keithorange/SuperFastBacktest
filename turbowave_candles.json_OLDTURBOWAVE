@@ -412422,5 +412422,6365 @@
     "close": 641.02,
     "high": 641.84,
     "low": 640.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:57:30",
+    "open": 640.89,
+    "close": 640.17,
+    "high": 641.43,
+    "low": 639.73
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:57:35",
+    "open": 640.67,
+    "close": 641.12,
+    "high": 641.69,
+    "low": 640.1
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:57:40",
+    "open": 642.19,
+    "close": 643.98,
+    "high": 643.98,
+    "low": 642.19
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:57:45",
+    "open": 643.43,
+    "close": 642.26,
+    "high": 643.93,
+    "low": 641.91
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:57:50",
+    "open": 643.03,
+    "close": 639.99,
+    "high": 643.03,
+    "low": 639.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:57:55",
+    "open": 640.14,
+    "close": 642.19,
+    "high": 642.19,
+    "low": 639.14
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:00",
+    "open": 643.37,
+    "close": 644.23,
+    "high": 644.23,
+    "low": 641.79
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:05",
+    "open": 644.02,
+    "close": 643.09,
+    "high": 644.39,
+    "low": 643.07
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:10",
+    "open": 643.14,
+    "close": 642.5,
+    "high": 643.42,
+    "low": 642.15
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:15",
+    "open": 642.41,
+    "close": 641.66,
+    "high": 642.8,
+    "low": 641.09
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:20",
+    "open": 641.84,
+    "close": 639.25,
+    "high": 641.84,
+    "low": 639.25
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:25",
+    "open": 640.03,
+    "close": 638.05,
+    "high": 640.03,
+    "low": 637.82
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:30",
+    "open": 637.46,
+    "close": 637.58,
+    "high": 638.6,
+    "low": 636.52
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:35",
+    "open": 637.74,
+    "close": 640.62,
+    "high": 640.69,
+    "low": 637.74
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:40",
+    "open": 640.71,
+    "close": 641.06,
+    "high": 641.14,
+    "low": 640.22
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:45",
+    "open": 641.71,
+    "close": 641.91,
+    "high": 643.22,
+    "low": 641.67
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:50",
+    "open": 641.54,
+    "close": 640.78,
+    "high": 642.13,
+    "low": 640.24
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:58:55",
+    "open": 640.48,
+    "close": 640.48,
+    "high": 641.33,
+    "low": 640.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:00",
+    "open": 639.98,
+    "close": 641.52,
+    "high": 643.77,
+    "low": 639.98
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:05",
+    "open": 641.33,
+    "close": 640.26,
+    "high": 641.94,
+    "low": 640.26
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:10",
+    "open": 639.75,
+    "close": 640.57,
+    "high": 640.58,
+    "low": 639.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:15",
+    "open": 640.14,
+    "close": 642.08,
+    "high": 642.08,
+    "low": 638.68
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:20",
+    "open": 642.59,
+    "close": 641.96,
+    "high": 642.7,
+    "low": 641.11
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:25",
+    "open": 641.94,
+    "close": 642.73,
+    "high": 643.14,
+    "low": 641.84
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:30",
+    "open": 642.83,
+    "close": 643.02,
+    "high": 643.02,
+    "low": 641.82
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:35",
+    "open": 643.11,
+    "close": 641.01,
+    "high": 643.69,
+    "low": 640.45
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:40",
+    "open": 640.73,
+    "close": 643.96,
+    "high": 643.96,
+    "low": 640.66
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:45",
+    "open": 643.14,
+    "close": 641.23,
+    "high": 643.14,
+    "low": 641.23
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:50",
+    "open": 641.58,
+    "close": 644.54,
+    "high": 644.54,
+    "low": 641.53
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 20:59:55",
+    "open": 644.38,
+    "close": 643.69,
+    "high": 645.17,
+    "low": 642.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:00",
+    "open": 643.94,
+    "close": 646.06,
+    "high": 646.06,
+    "low": 642.67
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:05",
+    "open": 646.62,
+    "close": 648.18,
+    "high": 648.8,
+    "low": 646.62
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:10",
+    "open": 648.16,
+    "close": 647.98,
+    "high": 649.49,
+    "low": 647.98
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:15",
+    "open": 648.25,
+    "close": 647.06,
+    "high": 648.73,
+    "low": 646.99
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:20",
+    "open": 646.54,
+    "close": 646.41,
+    "high": 647.85,
+    "low": 645.7
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:25",
+    "open": 645.63,
+    "close": 649.62,
+    "high": 649.62,
+    "low": 645.63
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:30",
+    "open": 648.66,
+    "close": 648.14,
+    "high": 649.38,
+    "low": 648.14
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:35",
+    "open": 650.24,
+    "close": 654.35,
+    "high": 654.35,
+    "low": 650.24
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:40",
+    "open": 654.17,
+    "close": 657.85,
+    "high": 657.85,
+    "low": 654.17
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:45",
+    "open": 658.51,
+    "close": 660.1,
+    "high": 660.24,
+    "low": 658.51
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:50",
+    "open": 660.37,
+    "close": 658.81,
+    "high": 660.37,
+    "low": 658.28
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:00:55",
+    "open": 659.52,
+    "close": 658.21,
+    "high": 660.11,
+    "low": 658.21
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:00",
+    "open": 657.53,
+    "close": 657.93,
+    "high": 658.37,
+    "low": 656.3
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:05",
+    "open": 658.06,
+    "close": 656.13,
+    "high": 659.12,
+    "low": 656.13
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:10",
+    "open": 656.61,
+    "close": 655.89,
+    "high": 657.37,
+    "low": 655.43
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:15",
+    "open": 656.04,
+    "close": 657.09,
+    "high": 657.09,
+    "low": 655.42
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:20",
+    "open": 656.14,
+    "close": 654.16,
+    "high": 656.14,
+    "low": 652.5
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:25",
+    "open": 653.52,
+    "close": 653.02,
+    "high": 654.87,
+    "low": 653.02
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:30",
+    "open": 653.26,
+    "close": 652.73,
+    "high": 654.29,
+    "low": 652.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:35",
+    "open": 651.26,
+    "close": 651.79,
+    "high": 651.79,
+    "low": 650.5
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:40",
+    "open": 651.04,
+    "close": 650.17,
+    "high": 651.62,
+    "low": 649.86
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:45",
+    "open": 650.11,
+    "close": 651.49,
+    "high": 651.77,
+    "low": 648.97
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:50",
+    "open": 651.34,
+    "close": 649.12,
+    "high": 651.88,
+    "low": 648.61
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:01:55",
+    "open": 649.2,
+    "close": 647.04,
+    "high": 649.91,
+    "low": 646.63
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:00",
+    "open": 647.54,
+    "close": 646.55,
+    "high": 647.54,
+    "low": 646.0
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:05",
+    "open": 646.32,
+    "close": 648.85,
+    "high": 649.53,
+    "low": 646.32
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:10",
+    "open": 649.83,
+    "close": 651.26,
+    "high": 651.42,
+    "low": 649.6
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:15",
+    "open": 650.95,
+    "close": 650.25,
+    "high": 650.95,
+    "low": 648.62
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:20",
+    "open": 651.07,
+    "close": 653.35,
+    "high": 653.35,
+    "low": 651.07
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:25",
+    "open": 654.23,
+    "close": 651.3,
+    "high": 655.46,
+    "low": 651.3
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:30",
+    "open": 651.0,
+    "close": 651.06,
+    "high": 651.49,
+    "low": 649.97
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:35",
+    "open": 651.39,
+    "close": 651.82,
+    "high": 653.49,
+    "low": 651.39
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:40",
+    "open": 651.52,
+    "close": 654.47,
+    "high": 654.47,
+    "low": 651.52
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:45",
+    "open": 654.87,
+    "close": 654.88,
+    "high": 656.05,
+    "low": 653.71
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:50",
+    "open": 655.79,
+    "close": 654.56,
+    "high": 656.43,
+    "low": 654.17
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:02:55",
+    "open": 654.43,
+    "close": 652.7,
+    "high": 654.55,
+    "low": 651.5
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:00",
+    "open": 653.16,
+    "close": 649.73,
+    "high": 653.16,
+    "low": 649.73
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:05",
+    "open": 650.19,
+    "close": 652.92,
+    "high": 652.92,
+    "low": 649.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:10",
+    "open": 652.66,
+    "close": 650.94,
+    "high": 653.08,
+    "low": 650.93
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:15",
+    "open": 651.19,
+    "close": 650.95,
+    "high": 652.43,
+    "low": 650.95
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:20",
+    "open": 652.25,
+    "close": 651.72,
+    "high": 653.13,
+    "low": 651.52
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:25",
+    "open": 651.62,
+    "close": 650.85,
+    "high": 651.75,
+    "low": 650.18
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:30",
+    "open": 650.6,
+    "close": 651.45,
+    "high": 651.45,
+    "low": 649.58
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:35",
+    "open": 652.08,
+    "close": 648.1,
+    "high": 652.08,
+    "low": 646.82
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:40",
+    "open": 647.58,
+    "close": 646.7,
+    "high": 648.2,
+    "low": 646.7
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:45",
+    "open": 647.04,
+    "close": 647.27,
+    "high": 648.8,
+    "low": 647.04
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:50",
+    "open": 646.07,
+    "close": 644.25,
+    "high": 648.29,
+    "low": 644.25
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:03:55",
+    "open": 644.4,
+    "close": 644.38,
+    "high": 644.4,
+    "low": 643.18
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:00",
+    "open": 643.52,
+    "close": 644.47,
+    "high": 644.47,
+    "low": 642.34
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:05",
+    "open": 644.17,
+    "close": 643.53,
+    "high": 644.54,
+    "low": 643.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:10",
+    "open": 644.09,
+    "close": 648.02,
+    "high": 648.98,
+    "low": 644.09
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:15",
+    "open": 648.55,
+    "close": 651.07,
+    "high": 651.37,
+    "low": 648.55
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:20",
+    "open": 651.98,
+    "close": 650.66,
+    "high": 651.98,
+    "low": 650.66
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:25",
+    "open": 650.74,
+    "close": 653.94,
+    "high": 653.94,
+    "low": 650.61
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:30",
+    "open": 654.29,
+    "close": 654.64,
+    "high": 654.64,
+    "low": 653.78
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:35",
+    "open": 654.91,
+    "close": 655.73,
+    "high": 656.85,
+    "low": 654.91
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:40",
+    "open": 655.52,
+    "close": 653.83,
+    "high": 655.97,
+    "low": 653.83
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:45",
+    "open": 653.51,
+    "close": 655.51,
+    "high": 655.82,
+    "low": 653.51
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:50",
+    "open": 655.01,
+    "close": 657.53,
+    "high": 657.62,
+    "low": 655.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:04:55",
+    "open": 657.09,
+    "close": 656.94,
+    "high": 657.49,
+    "low": 655.68
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:00",
+    "open": 657.29,
+    "close": 657.75,
+    "high": 657.75,
+    "low": 655.46
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:05",
+    "open": 657.84,
+    "close": 657.41,
+    "high": 657.89,
+    "low": 656.34
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:10",
+    "open": 658.05,
+    "close": 659.64,
+    "high": 659.64,
+    "low": 658.05
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:15",
+    "open": 659.47,
+    "close": 659.31,
+    "high": 659.47,
+    "low": 656.5
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:20",
+    "open": 659.9,
+    "close": 658.48,
+    "high": 660.88,
+    "low": 658.48
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:25",
+    "open": 659.28,
+    "close": 659.96,
+    "high": 660.31,
+    "low": 658.82
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:30",
+    "open": 659.86,
+    "close": 659.62,
+    "high": 660.48,
+    "low": 658.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:35",
+    "open": 658.97,
+    "close": 658.92,
+    "high": 659.21,
+    "low": 657.73
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:40",
+    "open": 658.83,
+    "close": 658.7,
+    "high": 659.46,
+    "low": 657.86
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:45",
+    "open": 658.77,
+    "close": 660.56,
+    "high": 660.76,
+    "low": 658.23
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:50",
+    "open": 661.77,
+    "close": 660.92,
+    "high": 663.53,
+    "low": 660.92
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:05:55",
+    "open": 660.38,
+    "close": 658.48,
+    "high": 660.38,
+    "low": 658.48
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:00",
+    "open": 658.77,
+    "close": 658.29,
+    "high": 659.91,
+    "low": 657.58
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:05",
+    "open": 658.29,
+    "close": 658.65,
+    "high": 659.7,
+    "low": 657.91
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:10",
+    "open": 659.61,
+    "close": 660.74,
+    "high": 660.83,
+    "low": 658.37
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:15",
+    "open": 660.6,
+    "close": 662.21,
+    "high": 662.81,
+    "low": 660.6
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:20",
+    "open": 660.79,
+    "close": 665.06,
+    "high": 665.06,
+    "low": 660.79
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:25",
+    "open": 664.56,
+    "close": 663.94,
+    "high": 664.56,
+    "low": 663.26
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:30",
+    "open": 664.07,
+    "close": 661.88,
+    "high": 664.07,
+    "low": 660.55
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:35",
+    "open": 661.85,
+    "close": 661.79,
+    "high": 662.24,
+    "low": 661.3
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:40",
+    "open": 661.08,
+    "close": 662.47,
+    "high": 663.74,
+    "low": 660.94
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:45",
+    "open": 663.59,
+    "close": 664.78,
+    "high": 666.13,
+    "low": 663.59
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:50",
+    "open": 665.21,
+    "close": 663.92,
+    "high": 665.21,
+    "low": 662.26
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:06:55",
+    "open": 663.49,
+    "close": 665.47,
+    "high": 665.47,
+    "low": 663.49
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:00",
+    "open": 665.43,
+    "close": 666.65,
+    "high": 666.74,
+    "low": 665.16
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:05",
+    "open": 666.39,
+    "close": 663.79,
+    "high": 667.33,
+    "low": 663.79
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:10",
+    "open": 662.88,
+    "close": 664.85,
+    "high": 665.2,
+    "low": 662.55
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:15",
+    "open": 664.65,
+    "close": 664.78,
+    "high": 665.51,
+    "low": 664.21
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:20",
+    "open": 665.09,
+    "close": 663.01,
+    "high": 665.09,
+    "low": 661.93
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:25",
+    "open": 664.41,
+    "close": 663.69,
+    "high": 664.41,
+    "low": 662.6
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:30",
+    "open": 664.23,
+    "close": 663.17,
+    "high": 665.5,
+    "low": 662.46
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:35",
+    "open": 664.62,
+    "close": 664.98,
+    "high": 665.14,
+    "low": 663.25
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:40",
+    "open": 665.24,
+    "close": 662.46,
+    "high": 665.24,
+    "low": 662.46
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:45",
+    "open": 662.6,
+    "close": 666.05,
+    "high": 666.05,
+    "low": 662.6
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:50",
+    "open": 665.7,
+    "close": 667.39,
+    "high": 668.52,
+    "low": 665.7
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:07:55",
+    "open": 668.18,
+    "close": 673.03,
+    "high": 673.03,
+    "low": 668.18
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:00",
+    "open": 674.2,
+    "close": 676.7,
+    "high": 676.7,
+    "low": 674.12
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:05",
+    "open": 675.75,
+    "close": 674.68,
+    "high": 676.73,
+    "low": 674.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:10",
+    "open": 675.83,
+    "close": 673.43,
+    "high": 676.03,
+    "low": 672.74
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:15",
+    "open": 675.03,
+    "close": 675.53,
+    "high": 676.73,
+    "low": 675.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:20",
+    "open": 675.11,
+    "close": 677.16,
+    "high": 677.16,
+    "low": 673.96
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:25",
+    "open": 676.76,
+    "close": 674.01,
+    "high": 676.76,
+    "low": 674.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:30",
+    "open": 674.19,
+    "close": 676.15,
+    "high": 677.06,
+    "low": 674.19
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:35",
+    "open": 676.27,
+    "close": 675.11,
+    "high": 676.27,
+    "low": 673.95
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:40",
+    "open": 675.29,
+    "close": 677.38,
+    "high": 677.38,
+    "low": 675.09
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:45",
+    "open": 677.2,
+    "close": 680.68,
+    "high": 680.68,
+    "low": 677.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:50",
+    "open": 681.36,
+    "close": 680.57,
+    "high": 681.77,
+    "low": 680.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:08:55",
+    "open": 681.1,
+    "close": 682.9,
+    "high": 682.9,
+    "low": 680.89
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:00",
+    "open": 684.21,
+    "close": 683.83,
+    "high": 685.69,
+    "low": 683.83
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:05",
+    "open": 683.79,
+    "close": 683.78,
+    "high": 684.84,
+    "low": 682.9
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:10",
+    "open": 683.37,
+    "close": 678.11,
+    "high": 683.37,
+    "low": 677.93
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:15",
+    "open": 678.56,
+    "close": 680.98,
+    "high": 680.98,
+    "low": 677.98
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:20",
+    "open": 682.0,
+    "close": 681.55,
+    "high": 682.0,
+    "low": 679.88
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:25",
+    "open": 681.54,
+    "close": 685.02,
+    "high": 685.97,
+    "low": 681.54
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:30",
+    "open": 685.21,
+    "close": 686.5,
+    "high": 687.63,
+    "low": 685.21
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:35",
+    "open": 686.16,
+    "close": 684.77,
+    "high": 686.16,
+    "low": 684.77
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:40",
+    "open": 684.61,
+    "close": 685.75,
+    "high": 685.75,
+    "low": 682.82
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:45",
+    "open": 685.12,
+    "close": 686.69,
+    "high": 687.11,
+    "low": 685.12
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:50",
+    "open": 685.94,
+    "close": 687.2,
+    "high": 688.27,
+    "low": 685.94
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:09:55",
+    "open": 687.39,
+    "close": 688.37,
+    "high": 688.37,
+    "low": 687.37
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:00",
+    "open": 687.87,
+    "close": 688.54,
+    "high": 689.01,
+    "low": 687.05
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:05",
+    "open": 688.16,
+    "close": 684.39,
+    "high": 688.16,
+    "low": 684.39
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:10",
+    "open": 683.56,
+    "close": 683.84,
+    "high": 684.49,
+    "low": 682.93
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:15",
+    "open": 684.42,
+    "close": 687.04,
+    "high": 687.13,
+    "low": 684.42
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:20",
+    "open": 686.47,
+    "close": 685.42,
+    "high": 686.47,
+    "low": 685.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:25",
+    "open": 685.91,
+    "close": 685.81,
+    "high": 687.2,
+    "low": 685.41
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:30",
+    "open": 685.24,
+    "close": 687.51,
+    "high": 687.51,
+    "low": 685.24
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:35",
+    "open": 687.25,
+    "close": 686.88,
+    "high": 687.6,
+    "low": 686.45
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:40",
+    "open": 687.81,
+    "close": 689.1,
+    "high": 690.44,
+    "low": 687.34
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:45",
+    "open": 689.51,
+    "close": 689.25,
+    "high": 692.11,
+    "low": 688.79
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:50",
+    "open": 688.71,
+    "close": 687.73,
+    "high": 688.71,
+    "low": 686.89
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:10:55",
+    "open": 688.16,
+    "close": 687.4,
+    "high": 688.21,
+    "low": 686.69
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:00",
+    "open": 686.84,
+    "close": 686.08,
+    "high": 687.36,
+    "low": 685.25
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:05",
+    "open": 686.26,
+    "close": 684.63,
+    "high": 686.38,
+    "low": 684.63
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:10",
+    "open": 684.74,
+    "close": 685.4,
+    "high": 686.0,
+    "low": 684.52
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:15",
+    "open": 684.94,
+    "close": 683.32,
+    "high": 686.56,
+    "low": 683.32
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:20",
+    "open": 683.85,
+    "close": 682.2,
+    "high": 683.85,
+    "low": 681.8
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:25",
+    "open": 682.12,
+    "close": 682.07,
+    "high": 682.63,
+    "low": 680.95
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:30",
+    "open": 682.15,
+    "close": 677.72,
+    "high": 682.15,
+    "low": 677.72
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:35",
+    "open": 677.57,
+    "close": 677.3,
+    "high": 678.14,
+    "low": 676.56
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:40",
+    "open": 676.68,
+    "close": 676.08,
+    "high": 678.52,
+    "low": 676.08
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:45",
+    "open": 676.57,
+    "close": 676.75,
+    "high": 677.85,
+    "low": 675.33
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:50",
+    "open": 676.81,
+    "close": 681.83,
+    "high": 681.83,
+    "low": 676.81
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:11:55",
+    "open": 681.61,
+    "close": 681.32,
+    "high": 681.61,
+    "low": 679.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:00",
+    "open": 680.76,
+    "close": 682.61,
+    "high": 682.8,
+    "low": 680.76
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:05",
+    "open": 683.82,
+    "close": 685.71,
+    "high": 686.29,
+    "low": 683.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:10",
+    "open": 685.69,
+    "close": 686.7,
+    "high": 686.7,
+    "low": 685.64
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:15",
+    "open": 687.6,
+    "close": 687.88,
+    "high": 687.88,
+    "low": 685.78
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:20",
+    "open": 687.75,
+    "close": 686.94,
+    "high": 689.03,
+    "low": 686.94
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:25",
+    "open": 687.02,
+    "close": 689.61,
+    "high": 689.61,
+    "low": 687.02
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:30",
+    "open": 689.38,
+    "close": 690.13,
+    "high": 690.83,
+    "low": 689.3
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:35",
+    "open": 690.77,
+    "close": 690.09,
+    "high": 690.81,
+    "low": 688.74
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:40",
+    "open": 689.74,
+    "close": 690.35,
+    "high": 691.33,
+    "low": 689.74
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:45",
+    "open": 691.91,
+    "close": 691.39,
+    "high": 692.55,
+    "low": 691.39
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:50",
+    "open": 691.57,
+    "close": 692.49,
+    "high": 692.49,
+    "low": 690.88
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:12:55",
+    "open": 692.16,
+    "close": 692.17,
+    "high": 692.84,
+    "low": 690.66
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:00",
+    "open": 692.74,
+    "close": 694.96,
+    "high": 695.15,
+    "low": 692.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:05",
+    "open": 696.52,
+    "close": 695.26,
+    "high": 696.52,
+    "low": 692.81
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:10",
+    "open": 695.16,
+    "close": 693.54,
+    "high": 695.77,
+    "low": 693.54
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:15",
+    "open": 693.45,
+    "close": 693.19,
+    "high": 694.05,
+    "low": 692.49
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:20",
+    "open": 693.48,
+    "close": 688.91,
+    "high": 693.48,
+    "low": 688.91
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:25",
+    "open": 688.22,
+    "close": 686.46,
+    "high": 688.22,
+    "low": 686.07
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:30",
+    "open": 686.62,
+    "close": 686.71,
+    "high": 688.34,
+    "low": 686.62
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:35",
+    "open": 686.27,
+    "close": 687.85,
+    "high": 687.85,
+    "low": 685.36
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:40",
+    "open": 687.93,
+    "close": 687.25,
+    "high": 687.93,
+    "low": 686.21
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:45",
+    "open": 686.99,
+    "close": 686.83,
+    "high": 689.12,
+    "low": 686.35
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:50",
+    "open": 686.73,
+    "close": 687.28,
+    "high": 687.42,
+    "low": 685.56
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:13:55",
+    "open": 686.78,
+    "close": 688.42,
+    "high": 688.85,
+    "low": 686.78
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:00",
+    "open": 687.82,
+    "close": 689.35,
+    "high": 689.35,
+    "low": 686.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:05",
+    "open": 689.53,
+    "close": 689.0,
+    "high": 689.64,
+    "low": 687.39
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:10",
+    "open": 688.8,
+    "close": 688.92,
+    "high": 688.92,
+    "low": 686.95
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:15",
+    "open": 688.5,
+    "close": 688.16,
+    "high": 688.5,
+    "low": 686.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:20",
+    "open": 688.67,
+    "close": 690.85,
+    "high": 691.1,
+    "low": 688.67
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:25",
+    "open": 690.04,
+    "close": 689.43,
+    "high": 690.46,
+    "low": 689.17
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:30",
+    "open": 690.1,
+    "close": 686.15,
+    "high": 690.1,
+    "low": 686.15
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:35",
+    "open": 686.77,
+    "close": 686.76,
+    "high": 687.56,
+    "low": 686.42
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:40",
+    "open": 686.61,
+    "close": 688.75,
+    "high": 689.13,
+    "low": 686.61
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:45",
+    "open": 689.27,
+    "close": 688.73,
+    "high": 690.63,
+    "low": 688.17
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:50",
+    "open": 688.7,
+    "close": 686.9,
+    "high": 688.94,
+    "low": 686.9
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:14:55",
+    "open": 686.56,
+    "close": 688.28,
+    "high": 689.28,
+    "low": 686.56
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:00",
+    "open": 688.2,
+    "close": 689.43,
+    "high": 690.0,
+    "low": 688.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:05",
+    "open": 689.18,
+    "close": 691.98,
+    "high": 692.61,
+    "low": 688.91
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:10",
+    "open": 691.33,
+    "close": 689.74,
+    "high": 691.33,
+    "low": 689.4
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:15",
+    "open": 688.81,
+    "close": 689.62,
+    "high": 690.06,
+    "low": 688.54
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:20",
+    "open": 689.62,
+    "close": 691.94,
+    "high": 692.65,
+    "low": 689.62
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:25",
+    "open": 692.18,
+    "close": 691.5,
+    "high": 692.91,
+    "low": 691.48
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:30",
+    "open": 691.89,
+    "close": 692.55,
+    "high": 692.55,
+    "low": 690.88
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:35",
+    "open": 693.65,
+    "close": 690.11,
+    "high": 694.06,
+    "low": 689.42
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:40",
+    "open": 688.98,
+    "close": 689.82,
+    "high": 691.2,
+    "low": 688.98
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:45",
+    "open": 690.2,
+    "close": 689.31,
+    "high": 690.44,
+    "low": 688.87
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:50",
+    "open": 690.03,
+    "close": 691.37,
+    "high": 691.49,
+    "low": 689.41
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:15:55",
+    "open": 690.6,
+    "close": 690.91,
+    "high": 691.52,
+    "low": 690.14
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:00",
+    "open": 691.66,
+    "close": 690.41,
+    "high": 692.1,
+    "low": 690.11
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:05",
+    "open": 689.88,
+    "close": 691.18,
+    "high": 692.3,
+    "low": 689.55
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:10",
+    "open": 691.43,
+    "close": 687.73,
+    "high": 691.43,
+    "low": 687.73
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:15",
+    "open": 688.06,
+    "close": 689.23,
+    "high": 690.03,
+    "low": 688.06
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:20",
+    "open": 687.84,
+    "close": 686.6,
+    "high": 688.02,
+    "low": 686.6
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:25",
+    "open": 686.76,
+    "close": 683.06,
+    "high": 686.76,
+    "low": 682.04
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:30",
+    "open": 683.84,
+    "close": 689.21,
+    "high": 689.21,
+    "low": 683.15
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:35",
+    "open": 690.36,
+    "close": 687.79,
+    "high": 690.9,
+    "low": 686.64
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:40",
+    "open": 688.37,
+    "close": 687.0,
+    "high": 689.12,
+    "low": 687.0
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:45",
+    "open": 687.06,
+    "close": 691.87,
+    "high": 691.87,
+    "low": 687.06
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:50",
+    "open": 692.04,
+    "close": 693.74,
+    "high": 693.82,
+    "low": 691.26
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:16:55",
+    "open": 693.36,
+    "close": 693.93,
+    "high": 694.81,
+    "low": 692.0
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:00",
+    "open": 694.25,
+    "close": 697.24,
+    "high": 697.26,
+    "low": 694.25
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:05",
+    "open": 696.58,
+    "close": 696.66,
+    "high": 697.31,
+    "low": 695.24
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:10",
+    "open": 697.13,
+    "close": 698.21,
+    "high": 698.88,
+    "low": 695.89
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:15",
+    "open": 699.97,
+    "close": 700.75,
+    "high": 702.75,
+    "low": 699.97
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:20",
+    "open": 701.73,
+    "close": 701.96,
+    "high": 702.57,
+    "low": 700.43
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:25",
+    "open": 701.76,
+    "close": 700.44,
+    "high": 702.92,
+    "low": 700.41
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:30",
+    "open": 700.91,
+    "close": 700.59,
+    "high": 701.97,
+    "low": 700.49
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:35",
+    "open": 700.52,
+    "close": 703.21,
+    "high": 703.21,
+    "low": 699.05
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:40",
+    "open": 702.43,
+    "close": 702.27,
+    "high": 703.51,
+    "low": 701.36
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:45",
+    "open": 701.93,
+    "close": 700.23,
+    "high": 702.98,
+    "low": 700.23
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:50",
+    "open": 699.75,
+    "close": 699.58,
+    "high": 700.88,
+    "low": 697.89
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:17:55",
+    "open": 699.38,
+    "close": 701.66,
+    "high": 701.66,
+    "low": 699.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:00",
+    "open": 702.33,
+    "close": 702.43,
+    "high": 703.19,
+    "low": 701.96
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:05",
+    "open": 702.72,
+    "close": 699.03,
+    "high": 702.85,
+    "low": 699.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:10",
+    "open": 699.31,
+    "close": 699.86,
+    "high": 701.18,
+    "low": 699.21
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:15",
+    "open": 698.49,
+    "close": 701.79,
+    "high": 702.12,
+    "low": 698.49
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:20",
+    "open": 700.9,
+    "close": 700.64,
+    "high": 701.87,
+    "low": 700.02
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:25",
+    "open": 701.36,
+    "close": 700.87,
+    "high": 702.27,
+    "low": 700.59
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:30",
+    "open": 700.44,
+    "close": 696.96,
+    "high": 700.54,
+    "low": 696.45
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:35",
+    "open": 696.44,
+    "close": 698.67,
+    "high": 698.67,
+    "low": 696.44
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:40",
+    "open": 698.94,
+    "close": 699.32,
+    "high": 701.67,
+    "low": 698.85
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:45",
+    "open": 698.72,
+    "close": 697.15,
+    "high": 698.72,
+    "low": 695.88
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:50",
+    "open": 696.91,
+    "close": 699.37,
+    "high": 700.04,
+    "low": 696.91
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:18:55",
+    "open": 699.69,
+    "close": 701.59,
+    "high": 701.59,
+    "low": 699.69
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:00",
+    "open": 702.16,
+    "close": 699.52,
+    "high": 702.16,
+    "low": 699.52
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:05",
+    "open": 701.13,
+    "close": 699.59,
+    "high": 702.01,
+    "low": 699.12
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:10",
+    "open": 700.36,
+    "close": 701.4,
+    "high": 702.65,
+    "low": 700.36
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:15",
+    "open": 701.6,
+    "close": 703.38,
+    "high": 704.67,
+    "low": 701.06
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:20",
+    "open": 702.58,
+    "close": 703.47,
+    "high": 703.47,
+    "low": 700.07
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:25",
+    "open": 704.2,
+    "close": 700.39,
+    "high": 704.2,
+    "low": 699.97
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:30",
+    "open": 699.55,
+    "close": 698.55,
+    "high": 701.08,
+    "low": 698.55
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:35",
+    "open": 699.1,
+    "close": 695.73,
+    "high": 699.1,
+    "low": 695.73
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:40",
+    "open": 695.25,
+    "close": 693.26,
+    "high": 695.99,
+    "low": 693.05
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:45",
+    "open": 693.46,
+    "close": 691.14,
+    "high": 693.9,
+    "low": 691.14
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:50",
+    "open": 691.72,
+    "close": 693.15,
+    "high": 693.15,
+    "low": 691.42
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:19:55",
+    "open": 693.43,
+    "close": 693.34,
+    "high": 693.43,
+    "low": 691.6
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:00",
+    "open": 693.13,
+    "close": 690.66,
+    "high": 693.13,
+    "low": 689.86
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:05",
+    "open": 691.34,
+    "close": 690.32,
+    "high": 691.34,
+    "low": 688.81
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:10",
+    "open": 691.29,
+    "close": 692.27,
+    "high": 692.63,
+    "low": 690.63
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:15",
+    "open": 693.1,
+    "close": 691.86,
+    "high": 693.99,
+    "low": 691.85
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:20",
+    "open": 692.28,
+    "close": 691.9,
+    "high": 694.43,
+    "low": 691.9
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:25",
+    "open": 691.38,
+    "close": 692.22,
+    "high": 692.22,
+    "low": 689.79
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:30",
+    "open": 693.14,
+    "close": 690.98,
+    "high": 693.15,
+    "low": 690.98
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:35",
+    "open": 689.94,
+    "close": 691.79,
+    "high": 692.05,
+    "low": 689.55
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:40",
+    "open": 691.77,
+    "close": 693.88,
+    "high": 694.23,
+    "low": 691.71
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:45",
+    "open": 693.84,
+    "close": 698.63,
+    "high": 698.7,
+    "low": 693.84
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:50",
+    "open": 698.27,
+    "close": 698.25,
+    "high": 698.68,
+    "low": 696.65
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:20:55",
+    "open": 697.54,
+    "close": 698.37,
+    "high": 698.62,
+    "low": 697.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:00",
+    "open": 697.96,
+    "close": 697.67,
+    "high": 698.61,
+    "low": 697.18
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:05",
+    "open": 697.63,
+    "close": 699.55,
+    "high": 700.28,
+    "low": 697.49
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:10",
+    "open": 699.26,
+    "close": 704.27,
+    "high": 704.27,
+    "low": 698.93
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:15",
+    "open": 703.44,
+    "close": 706.16,
+    "high": 706.98,
+    "low": 703.44
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:20",
+    "open": 707.11,
+    "close": 705.83,
+    "high": 707.11,
+    "low": 703.0
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:25",
+    "open": 706.31,
+    "close": 701.02,
+    "high": 706.31,
+    "low": 701.02
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:30",
+    "open": 700.66,
+    "close": 700.27,
+    "high": 700.85,
+    "low": 698.77
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:35",
+    "open": 699.03,
+    "close": 698.41,
+    "high": 699.59,
+    "low": 697.77
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:40",
+    "open": 697.26,
+    "close": 699.64,
+    "high": 699.64,
+    "low": 696.67
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:45",
+    "open": 700.05,
+    "close": 696.2,
+    "high": 700.91,
+    "low": 695.88
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:50",
+    "open": 695.75,
+    "close": 698.91,
+    "high": 699.44,
+    "low": 695.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:21:55",
+    "open": 699.62,
+    "close": 699.84,
+    "high": 700.31,
+    "low": 699.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:00",
+    "open": 700.43,
+    "close": 702.05,
+    "high": 703.12,
+    "low": 700.08
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:05",
+    "open": 701.94,
+    "close": 702.6,
+    "high": 704.14,
+    "low": 701.94
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:10",
+    "open": 702.99,
+    "close": 701.59,
+    "high": 704.97,
+    "low": 701.59
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:15",
+    "open": 702.69,
+    "close": 702.54,
+    "high": 704.05,
+    "low": 702.06
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:20",
+    "open": 702.96,
+    "close": 704.35,
+    "high": 704.92,
+    "low": 702.96
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:25",
+    "open": 703.25,
+    "close": 705.24,
+    "high": 705.24,
+    "low": 702.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:30",
+    "open": 705.99,
+    "close": 704.02,
+    "high": 705.99,
+    "low": 703.21
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:35",
+    "open": 703.88,
+    "close": 704.92,
+    "high": 706.59,
+    "low": 703.88
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:40",
+    "open": 705.3,
+    "close": 706.85,
+    "high": 706.85,
+    "low": 704.16
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:45",
+    "open": 707.22,
+    "close": 710.11,
+    "high": 710.11,
+    "low": 706.52
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:50",
+    "open": 709.56,
+    "close": 713.22,
+    "high": 713.44,
+    "low": 709.56
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:22:55",
+    "open": 714.62,
+    "close": 715.36,
+    "high": 716.13,
+    "low": 714.3
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:00",
+    "open": 715.35,
+    "close": 713.16,
+    "high": 715.35,
+    "low": 712.88
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:05",
+    "open": 714.73,
+    "close": 714.74,
+    "high": 715.47,
+    "low": 713.78
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:10",
+    "open": 716.06,
+    "close": 717.28,
+    "high": 717.64,
+    "low": 715.67
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:15",
+    "open": 716.43,
+    "close": 715.67,
+    "high": 716.43,
+    "low": 714.13
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:20",
+    "open": 717.14,
+    "close": 715.81,
+    "high": 717.67,
+    "low": 714.88
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:25",
+    "open": 716.85,
+    "close": 718.7,
+    "high": 718.7,
+    "low": 716.7
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:30",
+    "open": 718.63,
+    "close": 716.3,
+    "high": 718.67,
+    "low": 716.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:35",
+    "open": 715.82,
+    "close": 717.3,
+    "high": 718.74,
+    "low": 715.82
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:40",
+    "open": 716.95,
+    "close": 714.58,
+    "high": 717.3,
+    "low": 713.15
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:45",
+    "open": 714.84,
+    "close": 717.35,
+    "high": 717.35,
+    "low": 714.57
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:50",
+    "open": 718.09,
+    "close": 717.14,
+    "high": 718.31,
+    "low": 716.12
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:23:55",
+    "open": 716.97,
+    "close": 717.86,
+    "high": 718.55,
+    "low": 716.06
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:00",
+    "open": 718.13,
+    "close": 720.97,
+    "high": 720.97,
+    "low": 717.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:05",
+    "open": 719.94,
+    "close": 720.29,
+    "high": 722.83,
+    "low": 719.73
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:10",
+    "open": 720.27,
+    "close": 721.86,
+    "high": 721.96,
+    "low": 719.63
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:15",
+    "open": 722.33,
+    "close": 723.98,
+    "high": 724.78,
+    "low": 722.33
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:20",
+    "open": 724.52,
+    "close": 722.69,
+    "high": 724.72,
+    "low": 721.69
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:25",
+    "open": 722.97,
+    "close": 726.46,
+    "high": 726.46,
+    "low": 722.72
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:30",
+    "open": 726.19,
+    "close": 726.81,
+    "high": 727.52,
+    "low": 725.93
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:35",
+    "open": 726.07,
+    "close": 726.46,
+    "high": 727.76,
+    "low": 726.07
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:40",
+    "open": 726.38,
+    "close": 726.79,
+    "high": 727.75,
+    "low": 725.22
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:45",
+    "open": 726.37,
+    "close": 727.44,
+    "high": 728.26,
+    "low": 726.37
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:50",
+    "open": 727.16,
+    "close": 733.6700000000001,
+    "high": 733.6700000000001,
+    "low": 727.16
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:24:55",
+    "open": 733.89,
+    "close": 736.62,
+    "high": 737.04,
+    "low": 733.32
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:00",
+    "open": 736.34,
+    "close": 732.97,
+    "high": 736.34,
+    "low": 732.97
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:05",
+    "open": 731.85,
+    "close": 731.12,
+    "high": 732.45,
+    "low": 730.46
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:10",
+    "open": 731.77,
+    "close": 734.74,
+    "high": 734.74,
+    "low": 731.77
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:15",
+    "open": 734.74,
+    "close": 737.1,
+    "high": 739.03,
+    "low": 734.74
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:20",
+    "open": 737.3299999999999,
+    "close": 736.54,
+    "high": 738.05,
+    "low": 736.54
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:25",
+    "open": 736.56,
+    "close": 733.24,
+    "high": 736.56,
+    "low": 733.24
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:30",
+    "open": 734.67,
+    "close": 732.92,
+    "high": 734.67,
+    "low": 732.92
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:35",
+    "open": 733.27,
+    "close": 733.14,
+    "high": 734.8,
+    "low": 733.14
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:40",
+    "open": 733.45,
+    "close": 732.18,
+    "high": 733.45,
+    "low": 732.18
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:45",
+    "open": 732.76,
+    "close": 733.41,
+    "high": 735.5,
+    "low": 732.76
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:50",
+    "open": 732.98,
+    "close": 732.36,
+    "high": 732.98,
+    "low": 730.02
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:25:55",
+    "open": 732.74,
+    "close": 731.82,
+    "high": 733.3,
+    "low": 730.96
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:00",
+    "open": 731.93,
+    "close": 734.78,
+    "high": 734.78,
+    "low": 730.5
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:05",
+    "open": 734.29,
+    "close": 735.65,
+    "high": 737.17,
+    "low": 733.6
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:10",
+    "open": 734.85,
+    "close": 734.74,
+    "high": 735.91,
+    "low": 733.31
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:15",
+    "open": 734.86,
+    "close": 733.81,
+    "high": 735.75,
+    "low": 733.81
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:20",
+    "open": 734.7,
+    "close": 733.29,
+    "high": 734.7,
+    "low": 732.23
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:25",
+    "open": 734.69,
+    "close": 734.71,
+    "high": 735.42,
+    "low": 733.97
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:30",
+    "open": 736.2,
+    "close": 736.6,
+    "high": 738.23,
+    "low": 736.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:35",
+    "open": 737.48,
+    "close": 739.52,
+    "high": 739.52,
+    "low": 737.3299999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:40",
+    "open": 740.0000000000001,
+    "close": 742.99,
+    "high": 743.46,
+    "low": 740.0000000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:45",
+    "open": 742.92,
+    "close": 745.08,
+    "high": 745.12,
+    "low": 742.16
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:50",
+    "open": 744.98,
+    "close": 746.53,
+    "high": 746.53,
+    "low": 744.35
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:26:55",
+    "open": 745.72,
+    "close": 750.0799999999999,
+    "high": 750.0799999999999,
+    "low": 744.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:00",
+    "open": 750.96,
+    "close": 746.73,
+    "high": 751.4600000000002,
+    "low": 746.73
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:05",
+    "open": 746.95,
+    "close": 740.31,
+    "high": 746.95,
+    "low": 740.31
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:10",
+    "open": 739.85,
+    "close": 735.52,
+    "high": 739.85,
+    "low": 735.45
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:15",
+    "open": 735.86,
+    "close": 737.28,
+    "high": 737.28,
+    "low": 735.28
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:20",
+    "open": 736.4,
+    "close": 733.96,
+    "high": 738.65,
+    "low": 733.96
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:25",
+    "open": 733.94,
+    "close": 733.43,
+    "high": 734.4,
+    "low": 732.36
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:30",
+    "open": 733.44,
+    "close": 734.25,
+    "high": 734.25,
+    "low": 732.33
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:35",
+    "open": 733.93,
+    "close": 734.84,
+    "high": 736.26,
+    "low": 733.93
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:40",
+    "open": 734.0500000000001,
+    "close": 734.55,
+    "high": 734.55,
+    "low": 732.81
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:45",
+    "open": 735.11,
+    "close": 730.95,
+    "high": 735.25,
+    "low": 730.95
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:50",
+    "open": 731.58,
+    "close": 731.21,
+    "high": 732.49,
+    "low": 730.84
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:27:55",
+    "open": 730.75,
+    "close": 731.43,
+    "high": 732.28,
+    "low": 730.42
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:00",
+    "open": 730.78,
+    "close": 731.71,
+    "high": 731.92,
+    "low": 729.33
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:05",
+    "open": 729.4900000000001,
+    "close": 731.15,
+    "high": 731.15,
+    "low": 728.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:10",
+    "open": 731.39,
+    "close": 734.73,
+    "high": 736.3,
+    "low": 731.39
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:15",
+    "open": 734.16,
+    "close": 736.3,
+    "high": 736.3,
+    "low": 734.0300000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:20",
+    "open": 737.44,
+    "close": 739.01,
+    "high": 739.19,
+    "low": 736.77
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:25",
+    "open": 739.28,
+    "close": 740.35,
+    "high": 740.35,
+    "low": 738.61
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:30",
+    "open": 740.69,
+    "close": 738.3099999999998,
+    "high": 741.63,
+    "low": 737.79
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:35",
+    "open": 738.67,
+    "close": 737.0799999999999,
+    "high": 739.53,
+    "low": 737.0799999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:40",
+    "open": 736.45,
+    "close": 734.33,
+    "high": 736.45,
+    "low": 733.53
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:45",
+    "open": 734.59,
+    "close": 737.41,
+    "high": 737.59,
+    "low": 734.59
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:50",
+    "open": 738.09,
+    "close": 738.94,
+    "high": 740.14,
+    "low": 738.09
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:28:55",
+    "open": 740.05,
+    "close": 741.29,
+    "high": 742.34,
+    "low": 740.05
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:00",
+    "open": 742.03,
+    "close": 742.64,
+    "high": 743.81,
+    "low": 741.35
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:05",
+    "open": 742.89,
+    "close": 742.65,
+    "high": 743.65,
+    "low": 741.96
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:10",
+    "open": 742.58,
+    "close": 740.49,
+    "high": 742.58,
+    "low": 740.49
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:15",
+    "open": 741.79,
+    "close": 744.55,
+    "high": 744.55,
+    "low": 741.51
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:20",
+    "open": 746.53,
+    "close": 745.78,
+    "high": 747.83,
+    "low": 745.78
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:25",
+    "open": 746.4799999999999,
+    "close": 744.58,
+    "high": 746.74,
+    "low": 744.58
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:30",
+    "open": 744.41,
+    "close": 746.19,
+    "high": 747.1400000000001,
+    "low": 744.41
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:35",
+    "open": 746.55,
+    "close": 742.67,
+    "high": 746.55,
+    "low": 741.77
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:40",
+    "open": 741.72,
+    "close": 741.4900000000001,
+    "high": 742.02,
+    "low": 740.56
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:45",
+    "open": 741.6,
+    "close": 743.88,
+    "high": 744.21,
+    "low": 740.64
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:50",
+    "open": 743.04,
+    "close": 743.53,
+    "high": 743.94,
+    "low": 742.42
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:29:55",
+    "open": 743.16,
+    "close": 742.64,
+    "high": 743.65,
+    "low": 742.61
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:00",
+    "open": 741.99,
+    "close": 740.52,
+    "high": 743.44,
+    "low": 740.52
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:05",
+    "open": 740.54,
+    "close": 744.58,
+    "high": 744.58,
+    "low": 740.54
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:10",
+    "open": 745.33,
+    "close": 745.39,
+    "high": 747.44,
+    "low": 745.2300000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:15",
+    "open": 745.08,
+    "close": 744.53,
+    "high": 745.08,
+    "low": 743.1
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:20",
+    "open": 744.82,
+    "close": 745.81,
+    "high": 746.4799999999999,
+    "low": 744.29
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:25",
+    "open": 745.93,
+    "close": 746.96,
+    "high": 746.96,
+    "low": 745.43
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:30",
+    "open": 745.36,
+    "close": 743.53,
+    "high": 745.63,
+    "low": 743.53
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:35",
+    "open": 744.05,
+    "close": 745.75,
+    "high": 746.79,
+    "low": 743.91
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:40",
+    "open": 744.28,
+    "close": 741.58,
+    "high": 744.28,
+    "low": 741.58
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:45",
+    "open": 741.81,
+    "close": 744.01,
+    "high": 744.02,
+    "low": 741.41
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:50",
+    "open": 743.68,
+    "close": 746.03,
+    "high": 746.03,
+    "low": 743.31
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:30:55",
+    "open": 745.72,
+    "close": 742.05,
+    "high": 746.76,
+    "low": 741.47
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:00",
+    "open": 743.34,
+    "close": 744.23,
+    "high": 744.23,
+    "low": 741.0
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:05",
+    "open": 742.92,
+    "close": 744.19,
+    "high": 744.91,
+    "low": 742.87
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:10",
+    "open": 744.04,
+    "close": 745.9999999999999,
+    "high": 746.0400000000001,
+    "low": 744.04
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:15",
+    "open": 746.82,
+    "close": 748.2999999999998,
+    "high": 748.2999999999998,
+    "low": 745.32
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:20",
+    "open": 747.67,
+    "close": 745.62,
+    "high": 747.67,
+    "low": 745.02
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:25",
+    "open": 745.58,
+    "close": 746.17,
+    "high": 747.42,
+    "low": 745.08
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:30",
+    "open": 746.88,
+    "close": 746.6,
+    "high": 747.19,
+    "low": 743.58
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:35",
+    "open": 747.5699999999999,
+    "close": 748.75,
+    "high": 748.75,
+    "low": 747.5699999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:40",
+    "open": 749.33,
+    "close": 746.92,
+    "high": 750.16,
+    "low": 746.92
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:45",
+    "open": 747.48,
+    "close": 745.39,
+    "high": 747.48,
+    "low": 745.18
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:50",
+    "open": 746.15,
+    "close": 745.18,
+    "high": 746.15,
+    "low": 745.14
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:31:55",
+    "open": 744.77,
+    "close": 746.79,
+    "high": 747.4,
+    "low": 743.81
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:00",
+    "open": 746.39,
+    "close": 747.65,
+    "high": 748.64,
+    "low": 746.39
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:05",
+    "open": 747.0599999999998,
+    "close": 748.4800000000001,
+    "high": 748.4800000000001,
+    "low": 746.29
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:10",
+    "open": 749.39,
+    "close": 748.98,
+    "high": 751.66,
+    "low": 748.49
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:15",
+    "open": 747.58,
+    "close": 748.22,
+    "high": 750.24,
+    "low": 746.63
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:20",
+    "open": 749.4999999999999,
+    "close": 750.62,
+    "high": 750.62,
+    "low": 749.25
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:25",
+    "open": 751.14,
+    "close": 752.16,
+    "high": 752.16,
+    "low": 750.59
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:30",
+    "open": 751.86,
+    "close": 749.56,
+    "high": 752.9,
+    "low": 749.53
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:35",
+    "open": 750.2,
+    "close": 750.77,
+    "high": 752.1,
+    "low": 750.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:40",
+    "open": 751.23,
+    "close": 749.99,
+    "high": 752.38,
+    "low": 749.39
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:45",
+    "open": 750.3,
+    "close": 750.32,
+    "high": 751.52,
+    "low": 750.24
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:50",
+    "open": 749.8199999999999,
+    "close": 746.94,
+    "high": 749.8199999999999,
+    "low": 745.94
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:32:55",
+    "open": 746.86,
+    "close": 744.04,
+    "high": 747.77,
+    "low": 743.7
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:00",
+    "open": 744.03,
+    "close": 748.09,
+    "high": 748.09,
+    "low": 743.94
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:05",
+    "open": 748.37,
+    "close": 746.05,
+    "high": 748.37,
+    "low": 744.6
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:10",
+    "open": 744.83,
+    "close": 745.96,
+    "high": 746.39,
+    "low": 744.5
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:15",
+    "open": 747.67,
+    "close": 746.62,
+    "high": 747.67,
+    "low": 746.62
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:20",
+    "open": 745.93,
+    "close": 741.5,
+    "high": 747.02,
+    "low": 741.5
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:25",
+    "open": 741.34,
+    "close": 740.79,
+    "high": 741.4399999999999,
+    "low": 740.39
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:30",
+    "open": 740.76,
+    "close": 735.22,
+    "high": 740.76,
+    "low": 735.22
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:35",
+    "open": 734.52,
+    "close": 734.82,
+    "high": 735.9,
+    "low": 733.37
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:40",
+    "open": 736.03,
+    "close": 738.9,
+    "high": 740.08,
+    "low": 735.86
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:45",
+    "open": 738.84,
+    "close": 737.4899999999999,
+    "high": 738.84,
+    "low": 736.6
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:50",
+    "open": 738.33,
+    "close": 740.16,
+    "high": 740.54,
+    "low": 737.4899999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:33:55",
+    "open": 740.86,
+    "close": 745.5,
+    "high": 745.5,
+    "low": 740.86
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:00",
+    "open": 744.8399999999999,
+    "close": 742.98,
+    "high": 744.8399999999999,
+    "low": 742.25
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:05",
+    "open": 743.05,
+    "close": 742.67,
+    "high": 744.45,
+    "low": 742.67
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:10",
+    "open": 742.64,
+    "close": 739.44,
+    "high": 742.64,
+    "low": 738.93
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:15",
+    "open": 739.21,
+    "close": 737.24,
+    "high": 739.21,
+    "low": 737.17
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:20",
+    "open": 737.11,
+    "close": 739.98,
+    "high": 739.98,
+    "low": 737.11
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:25",
+    "open": 740.94,
+    "close": 741.03,
+    "high": 741.96,
+    "low": 740.79
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:30",
+    "open": 741.51,
+    "close": 744.59,
+    "high": 744.59,
+    "low": 740.33
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:35",
+    "open": 744.2199999999999,
+    "close": 744.67,
+    "high": 746.68,
+    "low": 744.2199999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:40",
+    "open": 745.26,
+    "close": 744.2,
+    "high": 745.45,
+    "low": 743.83
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:45",
+    "open": 745.42,
+    "close": 744.14,
+    "high": 745.42,
+    "low": 743.47
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:50",
+    "open": 744.27,
+    "close": 746.5000000000001,
+    "high": 746.65,
+    "low": 744.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:34:55",
+    "open": 746.82,
+    "close": 747.23,
+    "high": 747.69,
+    "low": 746.4799999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:00",
+    "open": 746.5099999999999,
+    "close": 745.77,
+    "high": 746.5099999999999,
+    "low": 744.56
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:05",
+    "open": 745.44,
+    "close": 745.04,
+    "high": 746.44,
+    "low": 744.87
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:10",
+    "open": 744.63,
+    "close": 746.96,
+    "high": 746.96,
+    "low": 744.16
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:15",
+    "open": 746.55,
+    "close": 747.76,
+    "high": 748.36,
+    "low": 744.45
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:20",
+    "open": 747.81,
+    "close": 747.03,
+    "high": 748.17,
+    "low": 746.74
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:25",
+    "open": 749.29,
+    "close": 753.89,
+    "high": 755.78,
+    "low": 749.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:30",
+    "open": 754.05,
+    "close": 751.8,
+    "high": 754.9499999999999,
+    "low": 751.8
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:35",
+    "open": 754.18,
+    "close": 754.57,
+    "high": 755.6,
+    "low": 754.16
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:40",
+    "open": 756.43,
+    "close": 756.71,
+    "high": 757.7000000000002,
+    "low": 756.43
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:45",
+    "open": 756.32,
+    "close": 758.8000000000001,
+    "high": 758.8000000000001,
+    "low": 756.32
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:50",
+    "open": 758.87,
+    "close": 759.0399999999998,
+    "high": 759.74,
+    "low": 756.7
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:35:55",
+    "open": 758.14,
+    "close": 755.95,
+    "high": 758.14,
+    "low": 755.76
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:00",
+    "open": 756.87,
+    "close": 753.85,
+    "high": 757.88,
+    "low": 753.85
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:05",
+    "open": 753.64,
+    "close": 754.31,
+    "high": 754.76,
+    "low": 752.94
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:10",
+    "open": 754.3,
+    "close": 754.12,
+    "high": 755.43,
+    "low": 754.02
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:15",
+    "open": 754.87,
+    "close": 753.06,
+    "high": 754.87,
+    "low": 751.86
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:20",
+    "open": 752.55,
+    "close": 754.29,
+    "high": 754.29,
+    "low": 752.33
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:25",
+    "open": 754.7499999999999,
+    "close": 754.32,
+    "high": 755.91,
+    "low": 754.04
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:30",
+    "open": 754.23,
+    "close": 756.03,
+    "high": 756.82,
+    "low": 754.23
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:35",
+    "open": 756.53,
+    "close": 757.67,
+    "high": 759.14,
+    "low": 755.72
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:40",
+    "open": 757.85,
+    "close": 757.39,
+    "high": 759.48,
+    "low": 756.81
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:45",
+    "open": 759.1,
+    "close": 760.82,
+    "high": 761.72,
+    "low": 759.0
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:50",
+    "open": 760.31,
+    "close": 763.2,
+    "high": 763.77,
+    "low": 760.11
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:36:55",
+    "open": 763.37,
+    "close": 762.86,
+    "high": 763.37,
+    "low": 762.09
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:00",
+    "open": 762.8,
+    "close": 762.77,
+    "high": 764.47,
+    "low": 762.77
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:05",
+    "open": 762.5599999999998,
+    "close": 759.05,
+    "high": 762.5599999999998,
+    "low": 759.05
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:10",
+    "open": 759.03,
+    "close": 758.84,
+    "high": 760.3,
+    "low": 758.84
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:15",
+    "open": 759.44,
+    "close": 763.62,
+    "high": 764.68,
+    "low": 759.44
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:20",
+    "open": 764.36,
+    "close": 765.38,
+    "high": 765.38,
+    "low": 763.91
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:25",
+    "open": 765.04,
+    "close": 765.78,
+    "high": 766.77,
+    "low": 763.9
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:30",
+    "open": 766.34,
+    "close": 765.79,
+    "high": 766.34,
+    "low": 763.8
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:35",
+    "open": 766.77,
+    "close": 768.14,
+    "high": 768.57,
+    "low": 766.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:40",
+    "open": 768.13,
+    "close": 768.0699999999999,
+    "high": 769.45,
+    "low": 768.0699999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:45",
+    "open": 767.38,
+    "close": 770.78,
+    "high": 770.78,
+    "low": 767.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:50",
+    "open": 770.27,
+    "close": 768.7,
+    "high": 770.27,
+    "low": 768.7
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:37:55",
+    "open": 768.81,
+    "close": 773.56,
+    "high": 773.56,
+    "low": 768.81
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:00",
+    "open": 772.95,
+    "close": 771.93,
+    "high": 772.95,
+    "low": 771.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:05",
+    "open": 773.27,
+    "close": 775.01,
+    "high": 775.48,
+    "low": 773.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:10",
+    "open": 774.82,
+    "close": 775.24,
+    "high": 778.28,
+    "low": 774.6500000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:15",
+    "open": 775.72,
+    "close": 774.57,
+    "high": 777.48,
+    "low": 774.57
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:20",
+    "open": 774.95,
+    "close": 776.92,
+    "high": 777.55,
+    "low": 774.95
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:25",
+    "open": 776.49,
+    "close": 773.7900000000001,
+    "high": 776.49,
+    "low": 773.02
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:30",
+    "open": 774.2199999999999,
+    "close": 773.59,
+    "high": 775.1599999999999,
+    "low": 773.59
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:35",
+    "open": 773.47,
+    "close": 775.72,
+    "high": 775.72,
+    "low": 772.05
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:40",
+    "open": 776.75,
+    "close": 775.94,
+    "high": 776.75,
+    "low": 774.68
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:45",
+    "open": 775.84,
+    "close": 774.48,
+    "high": 775.97,
+    "low": 774.48
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:50",
+    "open": 774.35,
+    "close": 771.8,
+    "high": 775.56,
+    "low": 771.8
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:38:55",
+    "open": 770.6,
+    "close": 774.02,
+    "high": 774.02,
+    "low": 770.37
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:00",
+    "open": 774.23,
+    "close": 773.6,
+    "high": 774.42,
+    "low": 772.28
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:05",
+    "open": 772.1099999999999,
+    "close": 771.01,
+    "high": 773.99,
+    "low": 771.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:10",
+    "open": 771.3300000000002,
+    "close": 773.07,
+    "high": 773.07,
+    "low": 770.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:15",
+    "open": 772.39,
+    "close": 773.75,
+    "high": 773.8700000000001,
+    "low": 771.73
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:20",
+    "open": 774.2,
+    "close": 776.32,
+    "high": 776.6200000000001,
+    "low": 774.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:25",
+    "open": 776.7000000000002,
+    "close": 776.5,
+    "high": 778.2,
+    "low": 775.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:30",
+    "open": 777.45,
+    "close": 779.99,
+    "high": 779.99,
+    "low": 777.41
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:35",
+    "open": 779.57,
+    "close": 785.24,
+    "high": 785.24,
+    "low": 779.57
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:40",
+    "open": 785.71,
+    "close": 782.99,
+    "high": 786.65,
+    "low": 782.99
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:45",
+    "open": 782.53,
+    "close": 784.02,
+    "high": 785.4,
+    "low": 782.53
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:50",
+    "open": 783.07,
+    "close": 783.06,
+    "high": 783.07,
+    "low": 780.9300000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:39:55",
+    "open": 783.64,
+    "close": 785.8900000000001,
+    "high": 785.8900000000001,
+    "low": 782.9800000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:00",
+    "open": 785.19,
+    "close": 782.34,
+    "high": 786.24,
+    "low": 782.16
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:05",
+    "open": 782.43,
+    "close": 783.17,
+    "high": 784.08,
+    "low": 782.43
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:10",
+    "open": 783.12,
+    "close": 784.3300000000002,
+    "high": 784.78,
+    "low": 783.12
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:15",
+    "open": 783.9100000000001,
+    "close": 787.0399999999998,
+    "high": 787.0399999999998,
+    "low": 783.9100000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:20",
+    "open": 787.36,
+    "close": 782.9099999999999,
+    "high": 787.36,
+    "low": 782.9099999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:25",
+    "open": 782.71,
+    "close": 782.09,
+    "high": 782.71,
+    "low": 780.74
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:30",
+    "open": 783.31,
+    "close": 785.22,
+    "high": 785.22,
+    "low": 780.66
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:35",
+    "open": 784.08,
+    "close": 787.35,
+    "high": 788.08,
+    "low": 784.08
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:40",
+    "open": 786.7,
+    "close": 789.64,
+    "high": 790.16,
+    "low": 786.7
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:45",
+    "open": 789.52,
+    "close": 789.93,
+    "high": 791.23,
+    "low": 789.52
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:50",
+    "open": 790.3499999999999,
+    "close": 791.9,
+    "high": 791.9,
+    "low": 788.77
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:40:55",
+    "open": 792.61,
+    "close": 788.25,
+    "high": 792.61,
+    "low": 788.25
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:00",
+    "open": 788.7500000000001,
+    "close": 787.31,
+    "high": 791.73,
+    "low": 787.31
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:05",
+    "open": 786.62,
+    "close": 785.91,
+    "high": 787.66,
+    "low": 785.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:10",
+    "open": 786.16,
+    "close": 783.17,
+    "high": 786.74,
+    "low": 783.17
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:15",
+    "open": 783.03,
+    "close": 785.25,
+    "high": 785.36,
+    "low": 783.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:20",
+    "open": 785.59,
+    "close": 789.57,
+    "high": 790.07,
+    "low": 785.59
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:25",
+    "open": 790.46,
+    "close": 789.33,
+    "high": 791.04,
+    "low": 788.67
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:30",
+    "open": 789.32,
+    "close": 789.77,
+    "high": 790.5,
+    "low": 788.71
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:35",
+    "open": 790.0799999999999,
+    "close": 792.91,
+    "high": 792.91,
+    "low": 790.0799999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:40",
+    "open": 793.04,
+    "close": 791.3699999999999,
+    "high": 793.75,
+    "low": 791.3699999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:45",
+    "open": 790.86,
+    "close": 789.49,
+    "high": 791.43,
+    "low": 789.49
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:50",
+    "open": 787.7000000000002,
+    "close": 786.43,
+    "high": 789.12,
+    "low": 786.35
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:41:55",
+    "open": 786.71,
+    "close": 786.7600000000001,
+    "high": 787.55,
+    "low": 786.51
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:00",
+    "open": 787.74,
+    "close": 786.18,
+    "high": 787.74,
+    "low": 784.15
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:05",
+    "open": 787.09,
+    "close": 783.53,
+    "high": 787.35,
+    "low": 783.53
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:10",
+    "open": 782.5499999999998,
+    "close": 779.86,
+    "high": 783.12,
+    "low": 779.86
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:15",
+    "open": 780.6,
+    "close": 781.5,
+    "high": 781.5,
+    "low": 779.6
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:20",
+    "open": 781.92,
+    "close": 783.37,
+    "high": 783.37,
+    "low": 781.5500000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:25",
+    "open": 782.9099999999999,
+    "close": 781.4199999999998,
+    "high": 783.57,
+    "low": 781.39
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:30",
+    "open": 781.94,
+    "close": 781.03,
+    "high": 782.67,
+    "low": 780.99
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:35",
+    "open": 781.1599999999999,
+    "close": 784.64,
+    "high": 784.64,
+    "low": 781.1599999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:40",
+    "open": 783.9100000000001,
+    "close": 783.31,
+    "high": 784.22,
+    "low": 782.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:45",
+    "open": 783.7099999999999,
+    "close": 784.8,
+    "high": 784.8,
+    "low": 783.43
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:50",
+    "open": 786.01,
+    "close": 785.44,
+    "high": 787.12,
+    "low": 785.44
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:42:55",
+    "open": 785.47,
+    "close": 788.49,
+    "high": 788.68,
+    "low": 783.94
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:00",
+    "open": 788.31,
+    "close": 787.2,
+    "high": 788.67,
+    "low": 787.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:05",
+    "open": 786.35,
+    "close": 786.36,
+    "high": 786.36,
+    "low": 782.97
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:10",
+    "open": 785.27,
+    "close": 785.73,
+    "high": 785.73,
+    "low": 783.7399999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:15",
+    "open": 785.69,
+    "close": 783.2700000000001,
+    "high": 786.4,
+    "low": 783.2700000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:20",
+    "open": 783.5,
+    "close": 783.79,
+    "high": 783.79,
+    "low": 782.33
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:25",
+    "open": 781.83,
+    "close": 783.48,
+    "high": 783.48,
+    "low": 781.83
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:30",
+    "open": 783.7099999999999,
+    "close": 785.8,
+    "high": 785.8,
+    "low": 783.7099999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:35",
+    "open": 785.87,
+    "close": 788.63,
+    "high": 788.63,
+    "low": 785.87
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:40",
+    "open": 788.6000000000001,
+    "close": 788.9700000000001,
+    "high": 789.89,
+    "low": 786.8
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:45",
+    "open": 788.78,
+    "close": 791.29,
+    "high": 792.94,
+    "low": 788.78
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:50",
+    "open": 791.55,
+    "close": 787.3299999999999,
+    "high": 792.67,
+    "low": 787.3299999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:43:55",
+    "open": 789.04,
+    "close": 788.3699999999999,
+    "high": 789.04,
+    "low": 786.78
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:00",
+    "open": 787.74,
+    "close": 788.0499999999998,
+    "high": 789.09,
+    "low": 787.74
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:05",
+    "open": 787.35,
+    "close": 785.67,
+    "high": 787.35,
+    "low": 784.1800000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:10",
+    "open": 784.96,
+    "close": 783.31,
+    "high": 785.51,
+    "low": 783.21
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:15",
+    "open": 782.4800000000001,
+    "close": 777.64,
+    "high": 782.4800000000001,
+    "low": 777.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:20",
+    "open": 778.51,
+    "close": 778.12,
+    "high": 778.51,
+    "low": 776.65
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:25",
+    "open": 779.8400000000001,
+    "close": 778.0199999999999,
+    "high": 779.8400000000001,
+    "low": 777.14
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:30",
+    "open": 779.01,
+    "close": 780.66,
+    "high": 782.22,
+    "low": 779.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:35",
+    "open": 779.96,
+    "close": 774.94,
+    "high": 779.96,
+    "low": 774.94
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:40",
+    "open": 775.27,
+    "close": 774.8899999999999,
+    "high": 776.87,
+    "low": 774.58
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:45",
+    "open": 774.38,
+    "close": 775.73,
+    "high": 775.73,
+    "low": 772.24
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:50",
+    "open": 775.61,
+    "close": 774.4400000000002,
+    "high": 777.32,
+    "low": 774.4400000000002
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:44:55",
+    "open": 774.96,
+    "close": 774.49,
+    "high": 775.87,
+    "low": 773.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:00",
+    "open": 774.99,
+    "close": 773.78,
+    "high": 776.39,
+    "low": 773.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:05",
+    "open": 773.4,
+    "close": 768.93,
+    "high": 773.4,
+    "low": 768.93
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:10",
+    "open": 770.03,
+    "close": 771.87,
+    "high": 771.87,
+    "low": 770.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:15",
+    "open": 772.23,
+    "close": 772.49,
+    "high": 773.75,
+    "low": 771.97
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:20",
+    "open": 772.04,
+    "close": 768.65,
+    "high": 772.04,
+    "low": 768.65
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:25",
+    "open": 768.45,
+    "close": 767.43,
+    "high": 769.34,
+    "low": 767.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:30",
+    "open": 767.26,
+    "close": 771.2099999999999,
+    "high": 771.2099999999999,
+    "low": 767.26
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:35",
+    "open": 770.9199999999998,
+    "close": 768.84,
+    "high": 772.29,
+    "low": 768.84
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:40",
+    "open": 768.65,
+    "close": 771.61,
+    "high": 771.61,
+    "low": 768.65
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:45",
+    "open": 771.07,
+    "close": 775.32,
+    "high": 775.32,
+    "low": 771.07
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:50",
+    "open": 774.86,
+    "close": 777.86,
+    "high": 778.15,
+    "low": 774.86
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:45:55",
+    "open": 776.95,
+    "close": 776.03,
+    "high": 778.19,
+    "low": 776.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:00",
+    "open": 776.09,
+    "close": 774.18,
+    "high": 777.2,
+    "low": 773.89
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:05",
+    "open": 774.21,
+    "close": 776.92,
+    "high": 776.92,
+    "low": 774.21
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:10",
+    "open": 775.98,
+    "close": 775.8,
+    "high": 777.2,
+    "low": 775.8
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:15",
+    "open": 773.97,
+    "close": 773.61,
+    "high": 774.56,
+    "low": 772.36
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:20",
+    "open": 775.24,
+    "close": 772.1400000000001,
+    "high": 775.24,
+    "low": 772.1400000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:25",
+    "open": 771.76,
+    "close": 770.76,
+    "high": 772.75,
+    "low": 770.76
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:30",
+    "open": 769.87,
+    "close": 770.41,
+    "high": 770.41,
+    "low": 769.3
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:35",
+    "open": 770.44,
+    "close": 767.98,
+    "high": 770.44,
+    "low": 766.92
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:40",
+    "open": 767.93,
+    "close": 766.22,
+    "high": 767.93,
+    "low": 765.8
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:45",
+    "open": 765.74,
+    "close": 762.87,
+    "high": 765.74,
+    "low": 762.87
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:50",
+    "open": 763.37,
+    "close": 766.43,
+    "high": 766.43,
+    "low": 762.25
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:46:55",
+    "open": 765.13,
+    "close": 765.33,
+    "high": 766.27,
+    "low": 763.97
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:00",
+    "open": 765.41,
+    "close": 761.03,
+    "high": 765.46,
+    "low": 761.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:05",
+    "open": 760.59,
+    "close": 759.33,
+    "high": 761.85,
+    "low": 759.22
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:10",
+    "open": 759.64,
+    "close": 758.51,
+    "high": 761.3099999999998,
+    "low": 758.5
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:15",
+    "open": 758.44,
+    "close": 755.04,
+    "high": 758.45,
+    "low": 754.79
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:20",
+    "open": 755.49,
+    "close": 761.0800000000002,
+    "high": 761.0800000000002,
+    "low": 755.49
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:25",
+    "open": 761.85,
+    "close": 759.21,
+    "high": 761.85,
+    "low": 758.24
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:30",
+    "open": 759.74,
+    "close": 761.96,
+    "high": 762.85,
+    "low": 759.61
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:35",
+    "open": 761.2400000000001,
+    "close": 759.66,
+    "high": 762.17,
+    "low": 759.66
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:40",
+    "open": 759.64,
+    "close": 762.28,
+    "high": 762.48,
+    "low": 759.64
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:45",
+    "open": 761.91,
+    "close": 760.2500000000001,
+    "high": 761.91,
+    "low": 759.59
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:50",
+    "open": 760.3999999999999,
+    "close": 764.03,
+    "high": 764.03,
+    "low": 760.3999999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:47:55",
+    "open": 765.66,
+    "close": 766.28,
+    "high": 767.99,
+    "low": 765.66
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:00",
+    "open": 766.67,
+    "close": 765.91,
+    "high": 766.86,
+    "low": 764.77
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:05",
+    "open": 766.15,
+    "close": 764.1,
+    "high": 766.83,
+    "low": 764.1
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:10",
+    "open": 764.9300000000001,
+    "close": 765.31,
+    "high": 766.4,
+    "low": 764.3
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:15",
+    "open": 765.45,
+    "close": 765.35,
+    "high": 765.45,
+    "low": 763.37
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:20",
+    "open": 765.32,
+    "close": 763.01,
+    "high": 765.35,
+    "low": 763.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:25",
+    "open": 761.07,
+    "close": 763.44,
+    "high": 763.44,
+    "low": 760.6
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:30",
+    "open": 764.32,
+    "close": 765.5,
+    "high": 767.21,
+    "low": 764.32
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:35",
+    "open": 766.14,
+    "close": 767.22,
+    "high": 767.44,
+    "low": 765.85
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:40",
+    "open": 767.02,
+    "close": 769.11,
+    "high": 769.11,
+    "low": 766.71
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:45",
+    "open": 769.87,
+    "close": 768.28,
+    "high": 769.87,
+    "low": 766.64
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:50",
+    "open": 769.1199999999999,
+    "close": 770.7199999999999,
+    "high": 770.78,
+    "low": 767.54
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:48:55",
+    "open": 770.05,
+    "close": 773.36,
+    "high": 774.2,
+    "low": 770.05
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:00",
+    "open": 772.7999999999998,
+    "close": 771.98,
+    "high": 772.7999999999998,
+    "low": 770.82
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:05",
+    "open": 771.7199999999999,
+    "close": 771.4,
+    "high": 772.28,
+    "low": 769.81
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:10",
+    "open": 770.52,
+    "close": 770.99,
+    "high": 772.18,
+    "low": 769.5499999999998
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:15",
+    "open": 771.07,
+    "close": 772.13,
+    "high": 772.71,
+    "low": 771.07
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:20",
+    "open": 772.55,
+    "close": 772.83,
+    "high": 774.3200000000002,
+    "low": 771.69
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:25",
+    "open": 773.78,
+    "close": 775.5199999999999,
+    "high": 775.5199999999999,
+    "low": 773.05
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:30",
+    "open": 775.26,
+    "close": 772.41,
+    "high": 775.26,
+    "low": 772.41
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:35",
+    "open": 771.79,
+    "close": 773.07,
+    "high": 775.2999999999998,
+    "low": 771.79
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:40",
+    "open": 774.02,
+    "close": 776.75,
+    "high": 776.75,
+    "low": 774.02
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:45",
+    "open": 778.3699999999999,
+    "close": 778.16,
+    "high": 778.3699999999999,
+    "low": 776.87
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:50",
+    "open": 777.01,
+    "close": 777.89,
+    "high": 780.6,
+    "low": 776.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:49:55",
+    "open": 778.3699999999999,
+    "close": 777.48,
+    "high": 778.47,
+    "low": 777.0
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:00",
+    "open": 777.01,
+    "close": 779.38,
+    "high": 780.21,
+    "low": 776.8500000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:05",
+    "open": 779.86,
+    "close": 784.12,
+    "high": 784.31,
+    "low": 779.86
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:10",
+    "open": 782.9099999999999,
+    "close": 784.52,
+    "high": 785.58,
+    "low": 782.9099999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:15",
+    "open": 784.51,
+    "close": 784.36,
+    "high": 785.72,
+    "low": 783.9
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:20",
+    "open": 785.44,
+    "close": 785.85,
+    "high": 787.25,
+    "low": 785.42
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:25",
+    "open": 785.29,
+    "close": 781.31,
+    "high": 785.29,
+    "low": 781.19
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:30",
+    "open": 781.59,
+    "close": 782.07,
+    "high": 782.07,
+    "low": 779.8099999999998
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:35",
+    "open": 782.56,
+    "close": 781.65,
+    "high": 782.56,
+    "low": 781.65
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:40",
+    "open": 782.16,
+    "close": 782.4800000000001,
+    "high": 783.42,
+    "low": 781.69
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:45",
+    "open": 783.65,
+    "close": 783.65,
+    "high": 784.3899999999999,
+    "low": 782.42
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:50",
+    "open": 782.65,
+    "close": 781.0800000000002,
+    "high": 782.89,
+    "low": 781.0800000000002
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:50:55",
+    "open": 780.73,
+    "close": 778.8899999999999,
+    "high": 782.3,
+    "low": 778.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:00",
+    "open": 779.38,
+    "close": 777.32,
+    "high": 779.38,
+    "low": 777.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:05",
+    "open": 777.8,
+    "close": 778.35,
+    "high": 779.4,
+    "low": 776.71
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:10",
+    "open": 778.15,
+    "close": 779.5099999999999,
+    "high": 779.56,
+    "low": 777.44
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:15",
+    "open": 780.19,
+    "close": 779.68,
+    "high": 781.8399999999999,
+    "low": 778.96
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:20",
+    "open": 780.37,
+    "close": 782.79,
+    "high": 783.25,
+    "low": 779.94
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:25",
+    "open": 782.0,
+    "close": 781.25,
+    "high": 782.74,
+    "low": 780.84
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:30",
+    "open": 780.7599999999999,
+    "close": 779.02,
+    "high": 782.2,
+    "low": 779.02
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:35",
+    "open": 779.2800000000001,
+    "close": 781.54,
+    "high": 781.54,
+    "low": 779.2800000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:40",
+    "open": 781.75,
+    "close": 784.08,
+    "high": 784.08,
+    "low": 780.61
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:45",
+    "open": 784.15,
+    "close": 782.05,
+    "high": 784.15,
+    "low": 780.52
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:50",
+    "open": 782.1,
+    "close": 782.66,
+    "high": 783.5,
+    "low": 781.41
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:51:55",
+    "open": 783.05,
+    "close": 782.78,
+    "high": 783.05,
+    "low": 780.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:00",
+    "open": 781.36,
+    "close": 779.36,
+    "high": 781.36,
+    "low": 778.75
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:05",
+    "open": 779.85,
+    "close": 779.74,
+    "high": 781.43,
+    "low": 779.74
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:10",
+    "open": 780.11,
+    "close": 783.08,
+    "high": 783.08,
+    "low": 779.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:15",
+    "open": 783.54,
+    "close": 780.0,
+    "high": 783.54,
+    "low": 779.46
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:20",
+    "open": 781.02,
+    "close": 783.72,
+    "high": 783.72,
+    "low": 780.92
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:25",
+    "open": 783.23,
+    "close": 781.65,
+    "high": 783.23,
+    "low": 780.24
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:30",
+    "open": 780.82,
+    "close": 781.2,
+    "high": 781.43,
+    "low": 780.43
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:35",
+    "open": 781.29,
+    "close": 785.26,
+    "high": 785.26,
+    "low": 781.29
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:40",
+    "open": 785.36,
+    "close": 784.59,
+    "high": 785.36,
+    "low": 783.65
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:45",
+    "open": 784.67,
+    "close": 783.29,
+    "high": 786.9700000000001,
+    "low": 783.29
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:50",
+    "open": 783.67,
+    "close": 783.9,
+    "high": 783.9,
+    "low": 782.11
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:52:55",
+    "open": 783.7399999999999,
+    "close": 781.37,
+    "high": 783.77,
+    "low": 781.37
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:00",
+    "open": 781.03,
+    "close": 778.27,
+    "high": 781.2800000000001,
+    "low": 778.16
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:05",
+    "open": 778.79,
+    "close": 780.7699999999999,
+    "high": 781.12,
+    "low": 778.79
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:10",
+    "open": 781.69,
+    "close": 778.13,
+    "high": 782.1299999999999,
+    "low": 778.13
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:15",
+    "open": 778.15,
+    "close": 780.86,
+    "high": 781.67,
+    "low": 778.15
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:20",
+    "open": 780.24,
+    "close": 781.94,
+    "high": 781.94,
+    "low": 779.49
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:25",
+    "open": 781.0800000000002,
+    "close": 782.09,
+    "high": 782.09,
+    "low": 779.93
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:30",
+    "open": 782.46,
+    "close": 788.87,
+    "high": 788.87,
+    "low": 782.23
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:35",
+    "open": 790.22,
+    "close": 791.18,
+    "high": 791.18,
+    "low": 789.72
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:40",
+    "open": 791.21,
+    "close": 792.81,
+    "high": 792.81,
+    "low": 791.09
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:45",
+    "open": 794.09,
+    "close": 793.78,
+    "high": 794.39,
+    "low": 792.56
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:50",
+    "open": 792.91,
+    "close": 788.32,
+    "high": 792.91,
+    "low": 788.32
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:53:55",
+    "open": 787.55,
+    "close": 789.14,
+    "high": 789.14,
+    "low": 786.55
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:00",
+    "open": 788.84,
+    "close": 788.95,
+    "high": 791.6899999999999,
+    "low": 788.84
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:05",
+    "open": 789.34,
+    "close": 787.22,
+    "high": 789.34,
+    "low": 786.0600000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:10",
+    "open": 787.57,
+    "close": 786.5,
+    "high": 787.67,
+    "low": 785.11
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:15",
+    "open": 785.83,
+    "close": 787.87,
+    "high": 787.87,
+    "low": 784.77
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:20",
+    "open": 788.93,
+    "close": 787.3400000000001,
+    "high": 788.9700000000001,
+    "low": 786.4500000000002
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:25",
+    "open": 787.38,
+    "close": 787.13,
+    "high": 788.03,
+    "low": 785.56
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:30",
+    "open": 787.29,
+    "close": 786.83,
+    "high": 787.35,
+    "low": 785.97
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:35",
+    "open": 786.0399999999998,
+    "close": 788.12,
+    "high": 788.12,
+    "low": 784.8499999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:40",
+    "open": 788.2200000000001,
+    "close": 787.41,
+    "high": 788.2200000000001,
+    "low": 785.68
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:45",
+    "open": 787.4199999999998,
+    "close": 786.82,
+    "high": 787.4199999999998,
+    "low": 785.65
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:50",
+    "open": 786.99,
+    "close": 785.18,
+    "high": 787.35,
+    "low": 785.18
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:54:55",
+    "open": 785.32,
+    "close": 783.9,
+    "high": 786.01,
+    "low": 783.9
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:00",
+    "open": 783.36,
+    "close": 785.55,
+    "high": 786.51,
+    "low": 783.36
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:05",
+    "open": 784.31,
+    "close": 787.6800000000001,
+    "high": 787.6800000000001,
+    "low": 784.31
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:10",
+    "open": 787.59,
+    "close": 786.1299999999999,
+    "high": 787.59,
+    "low": 786.11
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:15",
+    "open": 785.56,
+    "close": 787.54,
+    "high": 787.54,
+    "low": 784.19
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:20",
+    "open": 787.76,
+    "close": 790.28,
+    "high": 790.88,
+    "low": 787.76
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:25",
+    "open": 790.78,
+    "close": 793.2,
+    "high": 793.61,
+    "low": 789.9399999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:30",
+    "open": 792.5,
+    "close": 792.5200000000001,
+    "high": 793.0699999999999,
+    "low": 792.26
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:35",
+    "open": 792.16,
+    "close": 793.87,
+    "high": 793.87,
+    "low": 792.16
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:40",
+    "open": 793.5200000000001,
+    "close": 792.51,
+    "high": 794.47,
+    "low": 792.46
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:45",
+    "open": 792.64,
+    "close": 793.95,
+    "high": 793.95,
+    "low": 790.76
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:50",
+    "open": 794.27,
+    "close": 797.12,
+    "high": 797.12,
+    "low": 794.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:55:55",
+    "open": 797.12,
+    "close": 798.31,
+    "high": 799.0800000000002,
+    "low": 797.12
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:00",
+    "open": 800.38,
+    "close": 798.1,
+    "high": 800.55,
+    "low": 796.91
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:05",
+    "open": 799.1,
+    "close": 798.26,
+    "high": 799.11,
+    "low": 796.6299999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:10",
+    "open": 799.45,
+    "close": 797.2299999999999,
+    "high": 799.67,
+    "low": 797.2299999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:15",
+    "open": 797.62,
+    "close": 801.1,
+    "high": 801.1,
+    "low": 797.62
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:20",
+    "open": 801.77,
+    "close": 801.4299999999998,
+    "high": 802.78,
+    "low": 800.95
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:25",
+    "open": 801.13,
+    "close": 800.12,
+    "high": 801.13,
+    "low": 799.14
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:30",
+    "open": 800.8,
+    "close": 801.27,
+    "high": 802.0900000000001,
+    "low": 800.8
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:35",
+    "open": 802.22,
+    "close": 804.64,
+    "high": 804.96,
+    "low": 801.8100000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:40",
+    "open": 804.83,
+    "close": 804.45,
+    "high": 805.54,
+    "low": 804.02
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:45",
+    "open": 803.4800000000001,
+    "close": 802.39,
+    "high": 803.7400000000001,
+    "low": 801.28
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:50",
+    "open": 802.0900000000001,
+    "close": 804.0,
+    "high": 804.03,
+    "low": 801.6899999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:56:55",
+    "open": 803.65,
+    "close": 800.36,
+    "high": 803.65,
+    "low": 799.66
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:00",
+    "open": 801.04,
+    "close": 802.0,
+    "high": 803.88,
+    "low": 800.55
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:05",
+    "open": 803.19,
+    "close": 801.8100000000001,
+    "high": 803.4199999999998,
+    "low": 800.72
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:10",
+    "open": 800.81,
+    "close": 798.32,
+    "high": 800.81,
+    "low": 797.63
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:15",
+    "open": 797.1699999999998,
+    "close": 795.1,
+    "high": 798.4600000000002,
+    "low": 795.1
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:20",
+    "open": 795.68,
+    "close": 795.97,
+    "high": 797.62,
+    "low": 795.4
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:25",
+    "open": 796.2800000000001,
+    "close": 793.51,
+    "high": 796.39,
+    "low": 793.51
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:30",
+    "open": 794.09,
+    "close": 792.5900000000001,
+    "high": 795.36,
+    "low": 792.5900000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:35",
+    "open": 792.42,
+    "close": 789.88,
+    "high": 792.75,
+    "low": 789.29
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:40",
+    "open": 789.8000000000001,
+    "close": 789.96,
+    "high": 792.42,
+    "low": 789.8000000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:45",
+    "open": 790.29,
+    "close": 791.96,
+    "high": 791.96,
+    "low": 789.11
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:50",
+    "open": 792.99,
+    "close": 792.69,
+    "high": 794.18,
+    "low": 792.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:57:55",
+    "open": 792.21,
+    "close": 794.86,
+    "high": 794.86,
+    "low": 792.21
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:00",
+    "open": 795.02,
+    "close": 796.42,
+    "high": 797.13,
+    "low": 794.1399999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:05",
+    "open": 794.5200000000001,
+    "close": 795.28,
+    "high": 795.28,
+    "low": 793.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:10",
+    "open": 794.61,
+    "close": 793.33,
+    "high": 794.65,
+    "low": 792.61
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:15",
+    "open": 793.38,
+    "close": 793.94,
+    "high": 794.28,
+    "low": 792.43
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:20",
+    "open": 792.94,
+    "close": 792.05,
+    "high": 792.94,
+    "low": 790.91
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:25",
+    "open": 792.0,
+    "close": 793.83,
+    "high": 793.83,
+    "low": 791.1300000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:30",
+    "open": 795.0500000000001,
+    "close": 795.42,
+    "high": 797.58,
+    "low": 794.05
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:35",
+    "open": 795.9,
+    "close": 795.09,
+    "high": 797.71,
+    "low": 795.09
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:40",
+    "open": 794.09,
+    "close": 795.21,
+    "high": 795.21,
+    "low": 792.98
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:45",
+    "open": 794.83,
+    "close": 796.3400000000001,
+    "high": 796.96,
+    "low": 794.83
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:50",
+    "open": 796.52,
+    "close": 796.38,
+    "high": 797.5900000000001,
+    "low": 796.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:58:55",
+    "open": 797.25,
+    "close": 796.48,
+    "high": 797.8,
+    "low": 795.7999999999998
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:00",
+    "open": 796.2800000000001,
+    "close": 796.8400000000001,
+    "high": 798.1300000000001,
+    "low": 796.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:05",
+    "open": 796.83,
+    "close": 798.09,
+    "high": 798.09,
+    "low": 796.37
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:10",
+    "open": 797.25,
+    "close": 797.34,
+    "high": 799.1600000000001,
+    "low": 797.0800000000002
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:15",
+    "open": 796.83,
+    "close": 803.09,
+    "high": 803.09,
+    "low": 796.83
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:20",
+    "open": 803.7699999999999,
+    "close": 800.5099999999999,
+    "high": 803.7699999999999,
+    "low": 800.5099999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:25",
+    "open": 800.0699999999999,
+    "close": 801.97,
+    "high": 801.97,
+    "low": 799.71
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:30",
+    "open": 801.46,
+    "close": 795.35,
+    "high": 802.03,
+    "low": 795.35
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:35",
+    "open": 794.42,
+    "close": 793.2099999999999,
+    "high": 794.42,
+    "low": 792.51
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:40",
+    "open": 794.07,
+    "close": 791.73,
+    "high": 794.7,
+    "low": 791.73
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:45",
+    "open": 791.98,
+    "close": 792.25,
+    "high": 792.25,
+    "low": 788.9
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:50",
+    "open": 791.82,
+    "close": 793.43,
+    "high": 793.6899999999999,
+    "low": 791.1499999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 21:59:55",
+    "open": 793.38,
+    "close": 796.88,
+    "high": 796.88,
+    "low": 793.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:00",
+    "open": 796.8400000000001,
+    "close": 795.85,
+    "high": 796.8400000000001,
+    "low": 794.44
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:05",
+    "open": 795.82,
+    "close": 796.11,
+    "high": 796.11,
+    "low": 794.9100000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:10",
+    "open": 796.0000000000001,
+    "close": 795.55,
+    "high": 796.0000000000001,
+    "low": 793.99
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:15",
+    "open": 795.66,
+    "close": 796.7300000000001,
+    "high": 798.02,
+    "low": 795.51
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:20",
+    "open": 797.6499999999999,
+    "close": 798.27,
+    "high": 798.27,
+    "low": 797.13
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:25",
+    "open": 797.4900000000001,
+    "close": 793.96,
+    "high": 797.4900000000001,
+    "low": 793.96
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:30",
+    "open": 794.5700000000002,
+    "close": 795.12,
+    "high": 797.58,
+    "low": 794.5700000000002
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:35",
+    "open": 795.08,
+    "close": 794.9399999999999,
+    "high": 795.38,
+    "low": 792.56
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:40",
+    "open": 795.93,
+    "close": 796.1200000000001,
+    "high": 797.2099999999999,
+    "low": 795.93
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:45",
+    "open": 795.35,
+    "close": 795.4,
+    "high": 795.71,
+    "low": 794.56
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:50",
+    "open": 795.94,
+    "close": 796.91,
+    "high": 796.91,
+    "low": 795.0699999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:00:55",
+    "open": 797.7300000000001,
+    "close": 797.03,
+    "high": 798.56,
+    "low": 797.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:00",
+    "open": 796.32,
+    "close": 794.88,
+    "high": 797.1,
+    "low": 793.91
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:05",
+    "open": 796.32,
+    "close": 798.69,
+    "high": 798.69,
+    "low": 795.06
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:10",
+    "open": 799.47,
+    "close": 800.55,
+    "high": 800.55,
+    "low": 797.2
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:15",
+    "open": 799.25,
+    "close": 798.71,
+    "high": 799.25,
+    "low": 797.01
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:20",
+    "open": 797.56,
+    "close": 798.2,
+    "high": 799.46,
+    "low": 797.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:25",
+    "open": 798.9900000000001,
+    "close": 796.42,
+    "high": 800.17,
+    "low": 796.42
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:30",
+    "open": 796.2600000000001,
+    "close": 795.89,
+    "high": 798.9,
+    "low": 795.65
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:35",
+    "open": 796.0899999999999,
+    "close": 796.95,
+    "high": 797.34,
+    "low": 796.0899999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:40",
+    "open": 796.54,
+    "close": 798.3699999999999,
+    "high": 799.2,
+    "low": 795.58
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:45",
+    "open": 799.14,
+    "close": 799.7299999999999,
+    "high": 800.78,
+    "low": 798.38
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:50",
+    "open": 800.69,
+    "close": 796.6299999999999,
+    "high": 802.7500000000001,
+    "low": 796.6299999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:01:55",
+    "open": 796.4600000000002,
+    "close": 797.44,
+    "high": 798.24,
+    "low": 796.4600000000002
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:00",
+    "open": 796.62,
+    "close": 796.14,
+    "high": 797.82,
+    "low": 794.47
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:05",
+    "open": 795.92,
+    "close": 800.67,
+    "high": 800.67,
+    "low": 795.92
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:10",
+    "open": 801.96,
+    "close": 800.86,
+    "high": 802.28,
+    "low": 800.86
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:15",
+    "open": 800.26,
+    "close": 801.73,
+    "high": 802.57,
+    "low": 800.26
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:20",
+    "open": 801.24,
+    "close": 802.77,
+    "high": 803.45,
+    "low": 800.14
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:25",
+    "open": 802.9,
+    "close": 801.67,
+    "high": 802.9,
+    "low": 801.18
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:30",
+    "open": 802.5900000000001,
+    "close": 799.3800000000001,
+    "high": 802.6799999999998,
+    "low": 799.04
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:35",
+    "open": 799.4800000000001,
+    "close": 802.7,
+    "high": 802.7,
+    "low": 799.3900000000001
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:40",
+    "open": 802.24,
+    "close": 806.91,
+    "high": 806.91,
+    "low": 801.05
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:45",
+    "open": 805.3,
+    "close": 808.5300000000001,
+    "high": 810.3000000000001,
+    "low": 805.3
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:50",
+    "open": 808.04,
+    "close": 811.83,
+    "high": 811.83,
+    "low": 806.03
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:02:55",
+    "open": 811.82,
+    "close": 811.99,
+    "high": 812.0500000000001,
+    "low": 810.27
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:03:00",
+    "open": 811.47,
+    "close": 810.48,
+    "high": 811.47,
+    "low": 809.0
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:03:05",
+    "open": 810.25,
+    "close": 813.92,
+    "high": 814.26,
+    "low": 810.14
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:03:10",
+    "open": 813.9,
+    "close": 811.5,
+    "high": 813.9,
+    "low": 811.16
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:03:15",
+    "open": 810.59,
+    "close": 808.62,
+    "high": 810.59,
+    "low": 807.84
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:03:20",
+    "open": 809.81,
+    "close": 813.61,
+    "high": 813.6900000000002,
+    "low": 809.81
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:03:25",
+    "open": 813.71,
+    "close": 812.43,
+    "high": 813.9700000000001,
+    "low": 812.43
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:03:30",
+    "open": 811.82,
+    "close": 816.13,
+    "high": 816.13,
+    "low": 811.82
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:03:35",
+    "open": 815.5300000000001,
+    "close": 815.72,
+    "high": 816.15,
+    "low": 814.7499999999999
+  },
+  {
+    "symbol": "TURBOWAVE",
+    "time": "2025-01-12 22:03:40",
+    "open": 814.5300000000001,
+    "close": 814.5300000000001,
+    "high": 814.5300000000001,
+    "low": 814.5300000000001
   }
 ]

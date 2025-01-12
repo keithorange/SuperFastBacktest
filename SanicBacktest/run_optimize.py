@@ -78,9 +78,9 @@ def main():
         df.index = df.index.tz_localize('UTC').tz_convert(ny_tz)
 
 
-        df = df.tail(8000)
+        df = df.tail(20000)
         print(f""" NOTE      # TODO: TAKING ONLY few rows
-        df = df.head(8000)
+        df = df.head(20000)
 
 # # """)
 
@@ -116,7 +116,7 @@ def main():
     # }
 
     # Parameter space for hyperoptimization
-    strategy_name = 'greasy_pig_strategy_short'
+    strategy_name = 'greasy_pig_strategy_long'
     param_space = {
         'ema_period': hp.quniform('ema_period', 3, 80, 1),
         'slope_period': hp.quniform('slope_period', 3, 40, 1),
@@ -145,7 +145,7 @@ def main():
 
 
         # NOTE: leverage is used in def backtest_strategy_for_symbol
-        'leverage': hp.quniform('leverage', 500, 1000, 1),
+        'leverage': hp.quniform('leverage', 1, 1000, 1),
     }
 
     print(f" $$$$ FIX LEVERAGE HYPEROPT PARAMS TO 1-> 1000")

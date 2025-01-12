@@ -123,7 +123,7 @@ def get_stop_pct(current_profit, tsl_params):
 #     return exit_signals.copy()
 
 
-@njit
+#@njit
 def apply_trailing_stop_ema_fast(prices, values, entry_signals, exit_signals, tsl_params):
     """
     Apply trailing stop using EMA (optimized version).
@@ -213,7 +213,7 @@ def apply_trailing_stop_ema(data, entry_signals, exit_signals, tsl_params, price
     return exit_signals
 
 
-@njit
+#@njit
 def _apply_take_profit_helper(entry_values, exit_values, entry_signals, exit_signals, take_profit_percentage):
     """
     Helper function to apply take profit logic.

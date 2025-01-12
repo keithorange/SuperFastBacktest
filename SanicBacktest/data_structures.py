@@ -57,16 +57,12 @@ class Trade:
 
     def calculate_effective_liquidation_price(self) -> float:
         """Calculate price that would result in exact maximum loss"""
-        max_loss_pct = 1 - 1/self._data['leverage']
+        liquidation_threshold = 1 / self._data['leverage']
         if self._data['is_long']:
-            return self._data['entry_price'] * (1 - max_loss_pct)
+            return self._data['entry_price'] * (1 - liquidation_threshold)
         else:
-            return self._data['entry_price'] * (1 + max_loss_pct)   
+            return self._data['entry_price'] * (1 + liquidation_threshold)
 
-
-    def get_position_size(self) -> float:
-        """Returns the position size in base currency units (e.g., BTC)"""
-        return self._data['position_size']  # Use pre-calculated position size
 
     def calculate_pnl(self, current_price: float) -> float:
         """Calculate PnL for the position at current price"""
@@ -162,7 +158,8 @@ class Portfolio:
         if self.liquidation_callback:
             self.liquidation_callback(exit_index, is_long)
 
-    def update_values(self, current_price: float, fee_rate: float) -> None:
+    def update_values(self, current_price: float, fee_rate: float, 
+                current_date: pd.Timestamp = None, exit_index: int = None) -> None:
         """Update portfolio values and check for liquidations with exact precision"""
         self.equity = self.cash + self.collateral_in_use
         
@@ -172,7 +169,7 @@ class Portfolio:
 
         # Vectorized calculations
         entry_prices = np.array([trade["entry_price"] for trade in all_trades])
-        position_sizes = np.array([trade.get_position_size() for trade in all_trades])
+        position_sizes = np.array([trade["position_size"] for trade in all_trades])
         is_long = np.array([trade["is_long"] for trade in all_trades])
         
         # Use the effective liquidation prices
@@ -192,7 +189,6 @@ class Portfolio:
             trade["unrealized_profit"] = unrealized_pnls[i] - trade["entry_fee"]
 
         # Liquidation check with exact price matching
-        # if current_date and exit_index:
         # Strict liquidation check - if we hit OR PASS the liquidation price
         liquidation_mask = np.where(is_long, 
                                 current_price <= liquidation_prices,  # Long positions

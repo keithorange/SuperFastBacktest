@@ -9,7 +9,7 @@ import numpy as np
 
 
 
-@njit
+#@njit
 def one_to_one_slope(data, period):
     """ Calculate normalized slope where: 
     -1.0 = straight down vertical (|)
@@ -59,8 +59,8 @@ def one_to_one_slope(data, period):
 
 
 
-# Ensure all helper functions are also optimized with @njit
-@njit
+# Ensure all helper functions are also optimized with #@njit
+#@njit
 def hull_moving_average(data, period):
     """Calculate Hull Moving Average (HMA)."""
     if len(data) < period:
@@ -78,7 +78,7 @@ def hull_moving_average(data, period):
     return hma_final
 
 
-@njit
+#@njit
 def weighted_moving_average(data: np.ndarray, period: int) -> np.ndarray:
     """Calculate Weighted Moving Average (WMA)."""
     if len(data) < period:
@@ -93,7 +93,7 @@ def weighted_moving_average(data: np.ndarray, period: int) -> np.ndarray:
     return wma_full
 
 
-@njit
+#@njit
 def calculate_ema(prices, period):
     """Calculate Exponential Moving Average (EMA)."""
     alpha = 2 / (period + 1)
@@ -107,7 +107,7 @@ def calculate_ema(prices, period):
     return ema
 
 
-@njit
+#@njit
 def manual_linear_regression(x, y):
     """Perform linear regression and return slope and intercept."""
     n = len(x)
@@ -130,7 +130,7 @@ def manual_linear_regression(x, y):
     return slope, intercept
 
 
-@njit
+#@njit
 def calculate_slope(ema, period):
     n = len(ema)
     x = np.arange(period)
@@ -169,7 +169,7 @@ def calculate_heikin_ashi(df: pd.DataFrame) -> pd.DataFrame:
     }, index=df.index)
 
 
-@njit
+#@njit
 def calculate_ema(prices, period):
     alpha = 2 / (period + 1)
     ema = np.zeros_like(prices)
@@ -187,7 +187,7 @@ def calculate_wma(data, period):
         wma[i] = np.sum(data[i - period + 1 : i + 1] * weights) / np.sum(weights)
     return wma
 
-@njit
+#@njit
 def calculate_hma(prices, period):
     sqrt_period = int(np.sqrt(period))
     
@@ -200,7 +200,7 @@ def calculate_hma(prices, period):
     return hma
 
 
-@njit
+#@njit
 def manual_linear_regression(x, y):
     """Perform linear regression and return slope and intercept."""
     n = len(x)
@@ -222,7 +222,7 @@ def manual_linear_regression(x, y):
     return slope, intercept
 
 
-@njit
+#@njit
 def weighted_moving_average(data: np.ndarray, period: int) -> np.ndarray:
     """Calculate Weighted Moving Average (WMA)."""
     if len(data) < period:
@@ -237,7 +237,7 @@ def weighted_moving_average(data: np.ndarray, period: int) -> np.ndarray:
     return wma_full
 
 
-@njit
+#@njit
 def hull_moving_average(data: np.ndarray, period: int) -> np.ndarray:
     """Calculate Hull Moving Average (HMA)."""
     if len(data) < period:
@@ -258,7 +258,7 @@ def hull_moving_average(data: np.ndarray, period: int) -> np.ndarray:
     return hma_final
 
 
-@njit
+#@njit
 def calculate_stickiness_index(data: np.ndarray, window_size: int = 10, short_hma_period: int = 5, score_ema_period: int = 4) -> np.ndarray:
     """
     Calculates the stickiness index based on the area between the Short Hull Moving Average (HMA)
@@ -329,7 +329,7 @@ def calculate_stickiness_index(data: np.ndarray, window_size: int = 10, short_hm
 # TODO: NOT used here ! can be! tells the overall Pigness stickiness of a stock, can be used to classify!
 
 
-@njit
+#@njit
 def calculate_mean_stickiness(data: np.ndarray, window_size: int = 10, short_hma_period: int = 5, score_ema_period: int = 4, period: int = -1) -> float:
     """
     Calculates the mean stickiness index over a specified period.
@@ -354,7 +354,7 @@ def calculate_mean_stickiness(data: np.ndarray, window_size: int = 10, short_hma
     return np.mean(stickiness_index[-period:])
 
 
-@njit
+#@njit
 def calculate_slope(ema, period):
     n = len(ema)
     slope = np.zeros(n)

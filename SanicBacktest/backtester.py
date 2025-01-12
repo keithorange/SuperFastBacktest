@@ -223,7 +223,7 @@ def backtest_strategy(
 
         # Update portfolio state and equity curve at the start of each iteration
         # In backtest_strategy main loop:
-        portfolio.update_values(current_price_raw, fee_rate=fees)
+        portfolio.update_values(current_price_raw, fee_rate=fees, current_date=current_date, exit_index=i)
 
         # Handle liquidation case
         if i > 0 and previous_equity == 0:
@@ -234,7 +234,6 @@ def backtest_strategy(
 
         # Store previous equity for next iteration
         previous_equity = portfolio.equity
-
 
         entry_long_occurred = False
         exit_long_occurred = False
@@ -280,7 +279,7 @@ def backtest_strategy(
             long_exits[i] = True
             short_exits[i] = True
 
-        if any(long_entries) or any(short_entries):
+        if np.any(long_entries) or np.any(short_entries):
             pass
 
         # Combined exit handling for all exit conditions
@@ -374,16 +373,15 @@ def backtest_strategy(
         # Update portfolio and equity curve
         previous_equity = portfolio.equity
         # In backtest_strategy main loop:
-        portfolio.update_values(current_price_raw, fee_rate=fees)
-                            #current_date=current_date, exit_index=i)
+        portfolio.update_values(current_price_raw, fee_rate=fees, current_date=current_date, exit_index=i)
         
         # Ensure equity doesn't mysteriously recover after liquidation
         if previous_equity == 0:
             portfolio.equity = 0
             
         # Update other tracking metrics
-        position_long_sizes[i] = sum(trade.get_position_size() for trade in portfolio.long_open_trades)
-        position_short_sizes[i] = sum(trade.get_position_size() for trade in portfolio.short_open_trades)
+        position_long_sizes[i] = sum(trade["position_size"] for trade in portfolio.long_open_trades)
+        position_short_sizes[i] = sum(trade["position_size"] for trade in portfolio.short_open_trades)
 
         concurrent_long_trades[i] = active_long_trades
         concurrent_short_trades[i] = active_short_trades
@@ -1078,7 +1076,7 @@ def plot_backtest_results(result, symbol, interval, leverage, save_to_file=True)
 
 
         fig.canvas.draw()
-        gs = GridSpec(10, 2, figure=fig, height_ratios=[2, 1, 1, 1, 1, 1, 1, 1, 1, 0.5])
+        gs = GridSpec(8, 2, figure=fig, height_ratios=[2, 1, 1, 1, 1, 1, 1, 1, ])
 
         x_axis = np.arange(len(vdata['close_prices']))
 
@@ -1146,11 +1144,18 @@ def plot_backtest_results(result, symbol, interval, leverage, save_to_file=True)
 
         # Plot 7: Individual Trade Returns
         ax7 = fig.add_subplot(gs[6, :])
-        long_returns = [trade['realized_profit'] / (trade.get_position_size() * trade['entry_price']) 
+        long_returns = [trade['realized_profit'] / (trade["position_size"] * trade['entry_price']) 
                         for trade in vdata['trades'] if trade['is_long']]
-        short_returns = [trade['realized_profit'] / (trade.get_position_size() * trade['entry_price']) 
+        short_returns = [trade['realized_profit'] / (trade["position_size"] * trade['entry_price']) 
                         for trade in vdata['trades'] if not trade['is_long']]
-        
+                
+        long_returns = np.array(long_returns)
+        short_returns = np.array(short_returns)
+
+        long_returns = long_returns[np.isfinite(long_returns)]
+        short_returns = short_returns[np.isfinite(short_returns)]
+
+
         ax7.bar(range(len(long_returns)), long_returns, color='green', alpha=0.5, label='Long Trades')
         ax7.bar(range(len(long_returns), len(long_returns) + len(short_returns)), short_returns, color='red', alpha=0.5, label='Short Trades')
         ax7.set_xlabel('Trade Number')
@@ -1172,14 +1177,25 @@ def plot_backtest_results(result, symbol, interval, leverage, save_to_file=True)
         ax8.set_title('Trade Duration vs Profit')
         ax8.legend()
 
+        def fast_hist(ax, data, color, label, bins=50):
+            if len(data) == 0 or np.all(data == data[0]):
+                return  # Don't plot if all values are the same or array is empty
+            
+            # Compute histogram
+            hist, bin_edges = np.histogram(data, bins=bins)
+            
+            # Plot histogram
+            ax.bar(bin_edges[:-1], hist, width=np.diff(bin_edges), color=color, alpha=0.5, label=label)
+
         # Plot 9: Trade Returns Distribution
         ax9 = fig.add_subplot(gs[7, 1])
-        sns.histplot(long_returns, kde=True, color='green', alpha=0.5, label='Long Trades', ax=ax9)
-        sns.histplot(short_returns, kde=True, color='red', alpha=0.5, label='Short Trades', ax=ax9)
+        fast_hist(ax9, long_returns, 'green', 'Long Trades')
+        fast_hist(ax9, short_returns, 'red', 'Short Trades')
         ax9.set_xlabel('Trade Return (%)')
         ax9.set_ylabel('Frequency')
         ax9.set_title('Distribution of Trade Returns')
         ax9.legend()
+
 
         # Format x-axis to show dates at regular intervals
         date_ticks = np.linspace(0, len(x_axis) - 1, 10, dtype=int)
