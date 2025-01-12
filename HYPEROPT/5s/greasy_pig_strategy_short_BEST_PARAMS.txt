@@ -1,0 +1,36 @@
+
+---------------------------------------------------
+Optimized Strategy Parameters
+---------------------------------------------------
+
+Strategy Name: greasy_pig_strategy_short
+Symbols: ["TURBOWAVE"]
+Interval: 5s
+Parameter Space: {'ema_period': <hyperopt.pyll.base.Apply object at 0x122901310>, 'slope_period': <hyperopt.pyll.base.Apply object at 0x122903740>, 'straightness_threshold': <hyperopt.pyll.base.Apply object at 0x122903860>, 'slope_threshold': <hyperopt.pyll.base.Apply object at 0x122903980>, 'trend_score_window_size': <hyperopt.pyll.base.Apply object at 0x122903ad0>, 'trend_score_smoothing_period': <hyperopt.pyll.base.Apply object at 0x122903c20>, 'trend_ema_period': <hyperopt.pyll.base.Apply object at 0x122903d70>, 'trend_ema_slope_period': <hyperopt.pyll.base.Apply object at 0x122903ec0>, 'trend_ema_threshold': <hyperopt.pyll.base.Apply object at 0x122903fe0>, 'max_deviation_percentage': <hyperopt.pyll.base.Apply object at 0x12291c140>, 'use_heikin_ashi': <hyperopt.pyll.base.Apply object at 0x12291c230>, 'use_tp': <hyperopt.pyll.base.Apply object at 0x12291c380>, 'take_profit_percentage': <hyperopt.pyll.base.Apply object at 0x12291c500>, 'tsl_params': [[<hyperopt.pyll.base.Apply object at 0x12291c620>, 0, <hyperopt.pyll.base.Apply object at 0x12291c770>], [<hyperopt.pyll.base.Apply object at 0x12291c890>, <hyperopt.pyll.base.Apply object at 0x12291c9b0>, <hyperopt.pyll.base.Apply object at 0x12291cb00>], [<hyperopt.pyll.base.Apply object at 0x12291cc20>, <hyperopt.pyll.base.Apply object at 0x12291cd40>, <hyperopt.pyll.base.Apply object at 0x12291ce90>]], 'leverage': <hyperopt.pyll.base.Apply object at 0x12291cfe0>}
+On Iteration: 446
+Metric Type: Custom Reward Function
+
+---------------------------------------------------
+
+Top 100000 Results Sorted by 'reward_equity_func':
+
+---------------------------------------------------
+
+# 1. reward_equity_func = 229.50900000151656854541
+{'ema_period': 31, 'leverage': 593.0, 'max_deviation_percentage': 4.181271342257613, 'slope_period': 38, 'slope_threshold': -0.03796134059566936, 'straightness_threshold': 0.8477994965528488, 'take_profit_percentage': 11.045217189013695, 'trend_ema_period': 117, 'trend_ema_slope_period': 22, 'trend_ema_threshold': 0.1152443150141036, 'trend_score_smoothing_period': 25, 'trend_score_window_size': 15.0, 'tsl_params': ((33.431595073314796, 0, 18.0), (20.5228582455382, 47.51112455263913, 14.0), (7.803442845756625, 48.514960986295044, 6.0)), 'use_heikin_ashi': False, 'use_tp': True}
+
+# 2. reward_equity_func = 5.42886895876989683529
+{'ema_period': 23, 'leverage': 522.0, 'max_deviation_percentage': 14.53528845522316, 'slope_period': 8, 'slope_threshold': -0.010988778369714014, 'straightness_threshold': 0.8779148573807606, 'take_profit_percentage': 28.64240118839039, 'trend_ema_period': 69, 'trend_ema_slope_period': 28, 'trend_ema_threshold': -0.5981186813464408, 'trend_score_smoothing_period': 28, 'trend_score_window_size': 21.0, 'tsl_params': ((49.91998713347839, 0, 9.0), (25.892480863932626, 8.151922139324169, 5.0), (16.130628021067217, 27.197895813722205, 4.0)), 'use_heikin_ashi': True, 'use_tp': False}
+
+# 3. reward_equity_func = -1000000000000.00000000000000000000
+{'ema_period': 8, 'leverage': 791.0, 'max_deviation_percentage': -14.990385076868318, 'slope_period': 32, 'slope_threshold': -0.475285058139544, 'straightness_threshold': 0.9451515293306315, 'take_profit_percentage': 1.9244046353843092, 'trend_ema_period': 107, 'trend_ema_slope_period': 37, 'trend_ema_threshold': 0.34159304969838034, 'trend_score_smoothing_period': 19, 'trend_score_window_size': 23.0, 'tsl_params': ((29.516113756221284, 0, 35.0), (18.73398763842049, 16.43096140520188, 29.0), (18.507789626835265, 23.70276247467411, 12.0)), 'use_heikin_ashi': False, 'use_tp': False}
+
+# 4. reward_equity_func = -1000000000000.00000000000000000000
+{'ema_period': 36, 'leverage': 863.0, 'max_deviation_percentage': 1.029247173063549, 'slope_period': 10, 'slope_threshold': -0.9173969412245322, 'straightness_threshold': 0.25298760599134273, 'take_profit_percentage': 18.37434907229796, 'trend_ema_period': 89, 'trend_ema_slope_period': 7, 'trend_ema_threshold': 0.9050783040107542, 'trend_score_smoothing_period': 28, 'trend_score_window_size': 25.0, 'tsl_params': ((23.995458840923188, 0, 37.0), (21.09620225953886, 28.670255090003888, 4.0), (19.5084513496088, 30.844615713133432, 3.0)), 'use_heikin_ashi': False, 'use_tp': False}
+
+# 5. reward_equity_func = -1000000000000.00000000000000000000
+{'ema_period': 75, 'leverage': 588.0, 'max_deviation_percentage': -12.126944319752479, 'slope_period': 32, 'slope_threshold': -0.5195582556521774, 'straightness_threshold': 0.34467558099977524, 'take_profit_percentage': 13.919319240174413, 'trend_ema_period': 51, 'trend_ema_slope_period': 44, 'trend_ema_threshold': 0.6218047519199568, 'trend_score_smoothing_period': 14, 'trend_score_window_size': 20.0, 'tsl_params': ((21.70315697853557, 0, 20.0), (17.280004306474982, 8.68585706747408, 16.0), (11.339352721254503, 34.01731216453302, 11.0)), 'use_heikin_ashi': False, 'use_tp': True}
+
+# 6. reward_equity_func = -1000000000000.00000000000000000000
+{'ema_period': 25, 'leverage': 782.0, 'max_deviation_percentage': 6.451701865356778, 'slope_period': 22, 'slope_threshold': 0.9965328690893418, 'straightness_threshold': 0.6476145405863734, 'take_profit_percentage': 23.831970470536326, 'trend_ema_period': 91, 'trend_ema_slope_period': 33, 'trend_ema_threshold': 0.3871429630087013, 'trend_score_smoothing_period': 18, 'trend_score_window_size': 56.0, 'tsl_params': ((45.14871491665636, 0, 19.0), (17.134867651234664, 9.087904323910097, 17.0), (8.04517029938266, 15.583111592389002, 5.0)), 'use_heikin_ashi': False, 'use_tp': True}
+
